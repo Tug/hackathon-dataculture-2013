@@ -1,0 +1,1228 @@
+30, Rue du Dr Sultzer	BARR	67140	France
+2, rue de Kuhlendorf	BETSCHDORF	67660	France
+2-3, Place du Château	BOUXWILLER	67330	France
+1, place Joseph Thierry	HAGUENAU	67500	France
+9, Rue du Maréchal Foch B.P. 40261	HAGUENAU Cedex	67504	France
+4, Cour des Chartreux	MOLSHEIM	67120	France
+44, Avenue Foch	NIEDERBRONN-LES-BAINS	67110	France
+24, rue du Docteur Albert Schweitzer	PFAFFENHOFFEN	67350	France
+9, rue Jeanne d'Arc	REICHSHOFFEN	67110	France
+Château des Rohans Place du Général de Gaulle	SAVERNE	67700	France
+1 place Hans Jean Arp	STRASBOURG	67000	France
+3, Place du Château	STRASBOURG	67000	France
+Palais Rohan 2, Place du Château	STRASBOURG	67000	France
+Palais Rohan 2, Place du Château	STRASBOURG	67000	France
+23-25, Quai Saint-Nicolas	STRASBOURG	67000	France
+29, Boulevard de la Victoire	STRASBOURG	67000	France
+Villa Greiner 2, avenue de la Marseillaise	STRASBOURG	67000	France
+Palais Rohan 2, Place du Château	STRASBOURG	67000	France
+5, Place du Château	STRASBOURG	67000	France
+3, Place de la Grande-Boucherie	STRASBOURG	67000	France
+25, Montée Oberlin	WALDERSBACH	67130	France
+40 rue du Hochberg Syndicat Mixte du Musée Lalique	WINGEN-SUR-MODER	67290	France
+3, rue du Musée	WISSEMBOURG	67160	France
+2, Rue du Moulin	WOERTH	67360	France
+1, Rue de l'Hôtel de Ville	ALTKIRCH	68130	France
+Place de la Mairie	BIESHEIM	68600	France
+1, Rue de Thann	CERNAY	68700	France
+30, Rue des Marchands	COLMAR	68000	France
+1, rue Unterlinden	COLMAR	68000	France
+11, Rue Turenne	COLMAR	68000	France
+1, Rue du Quatre Février	GUEBWILLER	68500	France
+6, rue des Boulangers	HUNINGE	68330	France
+64, avenue du Général de Gaulle	KAYSERSBERG	68240	France
+Château de la Confrérie St-Etienne	KIENTZHEIM	68240	France
+4, Place Guillaume-Tell	MULHOUSE	68100	France
+4, Rue des Archives	MULHOUSE	68100	France
+2, rue Alfred de Glehn	MULHOUSE	68200	France
+Association des Amis du Musée 4, Boulevard de la Marseillaise	MULHOUSE	68100	France
+3, Avenue Alfred-Werner	MULHOUSE Cedex	68093	France
+55, rue du Pâturage B.P. 52463	MULHOUSE Cedex	68057	France
+14, rue Jean-Jacques Henner B.P. 1468	MULHOUSE CEDEX	68072	France
+192, Avenue de Colmar B.P. 1096	MULHOUSE Cedex	68051	France
+7, Place de la Porte de Belfort	NEUF-BRISACH	68600	France
+10, rue Principale	OLTINGUE	68480	France
+Rue du Général de Gaulle	RIQUEWIHR	68340	France
+La Commanderie  28, rue Zuber B.P. 41	RIXHEIM Cedex	68171	France
+24, Rue Saint Thiébaut	THANN	68800	France
+B.P. 71	UNGERSHEIM	68190	France
+Maison Peyrarède Place du Feu	BERGERAC	24100	France
+Bourdeilles	BOURDEILLES	24310	France
+Boulevard Charlemagne	BRANTOME	24310	France
+Site Bella-Riva	CREYSSE	24100	France
+Place de la Halle	DOMME	24250	France
+B.P. 7	LES EYZIES-DE-TAYAC	24620	France
+Place Bertran de Borne	MONTIGNAC	24290	France
+2, Rue Raoul Grassin	MUSSIDAN	24400	France
+Avenue du Général Leclerc	NONTRON	24300	France
+32, Rue des Farges	PERIGUEUX	24000	France
+Parc de Vésone 20, Rue du 26ème Régiment d'Infanterie	PERIGUEUX	24000	France
+22, Cours Tourny	PERIGUEUX	24000	France
+	SAINT-AVIT-SENIEUR	24440	France
+B.P. 163	SARLAT-LA-CANEDA	24205	France
+Hôtel de ville	VILLEFRANCHE-DE-LONCHAT	24610	France
+Mairie de Blasimon	BLASIMON	33540	France
+Citadelle de Blaye	BLAYE	33390	France
+Hôtel de Lalande 39, Rue Bouffard	BORDEAUX	33000	France
+Entrepôt 7, Rue Ferrère	BORDEAUX	33000	France
+20, Cours D'Albret	BORDEAUX	33000	France
+20, Cours Pasteur	BORDEAUX	33000	France
+5, Place Bardineau	BORDEAUX	33000	France
+Conservatoire de l'Image Industrielle 20 Cours Pasteur	BORDEAUX	33000	France
+48, rue Vital-Carles	BORDEAUX	33000	France
+3, Place de la Citadelle	BOURG-SUR-GIRONDE	33710	France
+Esplanade Charles de Gaulle	LA REOLE	33190	France
+Musée Historique ou du Vieux Libourne (Robin)	LIBOURNE	33500	France
+42, Place  Abel Surchamp	LIBOURNE	33500	France
+Logis Mallet	SAINT-EMILION	33330	France
+Maison Braneyre Impasse Dupeyron	VILLANDRAUT	33730	France
+332, Avenue Louis Breguet	BISCARROSSE	40600	France
+Chapelle des Carmes 11 bis rue des Carmes	DAX	40100	France
+Abbaye d'Arthous	HASTINGUES	40300	France
+101, Rue Jacques Desert	LUXEY	40043	France
+6, Place Marguerite de Navarre	MONT-DE-MARSAN	40000	France
+Domaine de Carcher 480, Chemin du Sala B.P. 24	MONTFORT-EN-CHALOSSE	40380	France
+Eglise Notre-Dame	MOUSTEY	40410	France
+Route de Soférino	SABRES	40630	France
+Rue du Général Lamarque	SAINT-SEVER	40500	France
+2378, Route d'Hagetmau	SAMADET	40320	France
+112, Place de la Mairie	SANGUINET	40460	France
+Place du Dr Esquirol	AGEN cedex 9	47916	France
+15, Rue Abel Boyé	MARMANDE	47200	France
+Rue du Puits Saint Côme	MEZIN	47170	France
+Rue Henri IV	NERAC	47600	France
+Mairie Le Bourg	SAUVETERRE-LA-LEMANCE	47500	France
+2, Rue du Jardins	VILLENEUVE-SUR-LOT	47300	France
+Rue de l'Eglise	ARUDY	64260	France
+37, Quai des Corsaires	BAYONNE	64100	France
+Château Longa Rue Jean Rostand	BAYONNE	64100	France
+5, Rue Jacques-Laffitte	BAYONNE	64100	France
+Villa Arnaga Route du Docteur Camino	CAMBO-LES-BAINS	64250	France
+Parc municipal André Narbaits  117, Avenue du Général de Gaulle	GUETHARY	64210	France
+8, Rue Tran	PAU	64000	France
+Rue Mathieu Lalanne	PAU	64000	France
+Musée National du Château	PAU	64000	France
+Association Régionaliste de Pyrénées 7 avenue Henri Faisans	PAU	64000	France
+Hôtel de ville 1er étage de la salle des fêtes	BEAULON	03230	France
+5, Rue Charles-Louis Philippe	CERILLY	03350	France
+Place Rantian	GANNAT	03800	France
+BP 3249 (château des Ducs de Bourbons)	MONTLUCON Cedex	03106	France
+Quartier Villars Route de montilly	MOULINS	03000	France
+1, Avenue Victor Hugo B.P. 1669	MOULINS Cedex	03016	France
+Hôtel de Ville Boulevard des Arène - B.P. 10	NERIS-LES-BAINS	03310	France
+Place Aristide Briand	SOUVIGNY	03210	France
+11, Rue Mounin	VICHY	03200	France
+Château Saint Etienne	AURILLAC	15000	France
+Centre Culturel Pierre Mendès France 37, rue des Carmes	AURILLAC Cedex	15012	France
+La Tour Jardin de Saint-Martin	RUYNES-EN-MARGERIDE	15320	France
+Palais épiscopal 1, Place d'Armes	SAINT-FLOUR	15100	France
+17, Place d'Armes	SAINT-FLOUR	15100	France
+Le Bourg	CHILHAC	43380	France
+Musée des Arts et Traditions Populaires de Haute Loire	LAVAUDIEU	43100	France
+Jardin Henri Vinay	LE PUY-EN-VELAY	43000	France
+14, avenue de la Gare	RETOURNAC	43130	France
+Musée de la Ferblanterie	SAINT ARCONS D'ALLIER	43300	France
+53, Route Nationale	ARLANC	63220	France
+15, rue Bardoux	CLERMONT-FERRAND	63000	France
+45, rue Ballainvilliers	CLERMONT-FERRAND	63000	France
+Quartier historique de Montferrand Place Louis Deteix	CLERMONT-FERRAND	63100	France
+39, Rue de la République B.P. 30	LEZOUX	63190	France
+Place de l'Eglise	MARSAC-EN-LIVRADOIS	63940	France
+Le Bourg	MENAT	63560	France
+Place de l'Abbaye	MOZAC	63200	France
+Parc du Prélong	MUROL	63790	France
+10 bis, Rue Delile	RIOM	63200	France
+14, Rue de l'Hôtel de Ville	RIOM	63200	France
+58, Rue de la Coutellerie	THIERS	63300	France
+2, rue des Ecoles	VOLVIC	63530	France
+Rue de l'Hôpital	ALISE-SAINTE-REINE	21150	France
+Bibliothèque Municipale Passage Xavier Girault	AUXONNE	21130	France
+Porte Marie de Bourgogne 6, boulevard Perpreuil	BEAUNE	21200	France
+Hôtel de Ville	BEAUNE	21200	France
+Hôtel des Ducs Rue d'Enfer	BEAUNE	21200	France
+La Grande Forge	BUFFON	21500	France
+14, Rue de la Libération	CHATILLON-SUR-SEINE	21400	France
+4, rue des Bons Enfants	DIJON	21000	France
+Parc de l'Arquebuse 14, Rue Jehan de Marville	DIJON	21000	France
+8, Rue Vaillant	DIJON	21000	France
+Monastère des Bernardines 15-17, rue Sainte-Anne	DIJON	21000	France
+Monastère des Bernardines 15-17, rue Sainte-Anne	DIJON	21000	France
+5, Rue du Docteur Maret B.P. 1510	DIJON Cedex	21033	France
+Palais des Ducs et des Etats de Bourgogne B.P. 1510	DIJON Cedex	21033	France
+Clos Napoléon	FIXIN	21220	France
+1 PLACE DE LA FONTAINE	GEVREY-CHAMBERTIN - Reulle Vergy	21220	France
+Chapelle des Ursulines Rue Piron	MONTBARD	21500	France
+Anciennes Ecuries de Buffon B.P. 90	MONTBARD cedex	21506	France
+12, Rue Camille Rodier	NUITS-SAINT-GEORGES	21700	France
+3, Place du Docteur Roclore	SAULIEU	21210	France
+Rue Jean-Jacques Collenot	SEMUR-EN-AUXOIS	21140	France
+16-18, rue Saint Christophe	CHATEAU-CHINON	58120	France
+6, rue du Château	CHATEAU-CHINON	58120	France
+Avenue de la République	CLAMECY	58500	France
+Place de la Résistance	COSNE-SUR-LOIRE	58200	France
+33, Rue des Chapelains	LA CHARITE-SUR-LOIRE	58400	France
+1, Avenue de la République	LA MACHINE	58260	France
+Rue de la Porte du Croux	NEVERS	58000	France
+16, rue Saint-Genest	NEVERS	58000	France
+14, avenue de la Gare	POUILLY-SUR-LOIRE	58150	France
+Château de Saint-Amand	SAINT-AMAND-EN-PUISAYE	58310	France
+Place de la Mairie	VARZY	58210	France
+5, rue des Bancs	AUTUN	71400	France
+Rue Saint Nicolas	AUTUN	71400	France
+14, Rue Saint-Antoine	AUTUN	71400	France
+Rue des Sous-Chantres	AUTUN	71400	France
+34, rue du Bois Clair	BLANZY	71450	France
+Rue St Nazaire	BOURBON-LANCY	71140	France
+28, Quai des Messageries	CHALON-SUR-SAONE	71100	France
+3, rue Boichot	CHALON-SUR-SAONE	71100	France
+Rue du Prieuré	CHAROLLES	71120	France
+32, rue René Davoine	CHAROLLES	71120	France
+Palais Jean de Bourbon	CLUNY	71250	France
+Château de la Verrerie B.P. 53	LE CREUSOT Cedex	71202	France
+29, Rue des Dodânes	LOUHANS	71500	France
+41, Rue Sigorgne	MACON	71000	France
+5, rue des Ursulines	MACON	71000	France
+7-9, rue de la Tour	MARCIGNY	71110	France
+Avenue Jean-Paul II	PARAY-LE-MONIAL	71600	France
+13, Rue de la Paix	PARAY-LE-MONIAL	71600	France
+Château départemental	PIERRE-DE-BRESSE	71270	France
+Le Bourg	ROMANECHE-THORINS	71570	France
+Le Champ Bressan	ROMENAY	71470	France
+Musée Départemental de Préhistoire de Solutré	SOLUTRE-POUILLY	71960	France
+21, rue de l'hôpital	TOURNUS	71700	France
+8, Place de l'Abbaye	TOURNUS	71700	France
+2, Rue de l'Egalité	VERDUN-SUR-LE-DOUBS	71350	France
+9 bis, Rue d'Egleny	AUXERRE	89000	France
+Abbaye St-Germain 2 bis, Place Saint-Germain	AUXERRE	89000	France
+5, Boulevard Vauban	AUXERRE	89000	France
+5, Rue du Collège B.P. 67	AVALLON Cedex	89206	France
+25, Rue de l'Eglise	NOYERS-SUR-SEREIN	89310	France
+Place de l'hôtel de ville	SAINT-FARGEAU	89170	France
+Château	SAINT-SAUVEUR-EN-PUISAYE	89520	France
+Place de la Cathédrale	SENS	89100	France
+22, Rue Rougemont	TONNERRE	89700	France
+Rue Saint-Etienne Maison Romain-Rolland	VEZELAY	89450	France
+Porte de Joigny et 2, Rue Carnot	VILLENEUVE-SUR-YONNE	89500	France
+Rue Paul-Huillard	VILLIERS-SAINT-BENOIT	89130	France
+Rue du Château	DINAN	22100	France
+Place du Martray B.P. 70418	LAMBALLE Cedex	22404	France
+Cour Francis Renaud	SAINT-BRIEUC	22000	France
+24, Rue Traverse	BREST	29200	France
+Château de Brest	BREST	29240	France
+Moulins de Kerouat	COMMANA	29450	France
+Maison Cornec	RIVOAL	29190	France
+3, Rue Vauban B.P. 118	CONCARNEAU Cedex	29181	France
+Place de l'Enfer	DOUARNENEZ	29100	France
+Place des Jacobins	MORLAIX	29600	France
+Le Créac'h	OUESSANT	29242	France
+Le Niou Huella	OUESSANT	29242	France
+Place de l'Hôtel de Ville	PONT-AVEN	29930	France
+Square de l'Europe	PONT-L'ABBE	29120	France
+Palais des Evêques 1, Rue du Roi Gradlon	QUIMPER	29000	France
+40, Place Saint-Corentin	QUIMPER	29000	France
+Kergroas	TREGARVAN	29560	France
+2, Rue du Château	MONTFORT-SUR-MEU	35160	France
+Ferme de la Bintinais Route de Noyal-Châtillon-sur-Seiche	RENNES	35200	France
+20, Quai Emile Zola	RENNES	35100	France
+46, boulevard Magenta CS 51138	RENNES Cedex	35011	France
+Tour Solidor Esplanade du Commandant Menguy - B.P. 147	SAINT-MALO CEDEX	35401	France
+Château Esplanade Félicité Lamennais - B.P. 147	SAINT-MALO CEDEX	35401	France
+Route d'Argentré du Plessis	VITRE	35500	France
+15, Rue Pasteur	VITRE	35506	France
+Place du Château	VITRE Cedex	35506	France
+Ecomusée de Saint-Dégan	BREC'H	56400	France
+10, Place de la chapelle	CARNAC	56340	France
+Port Trudy	ILE DE GROIX	56590	France
+Zone Industrielle des Forges	INZINZAC-LOCHRIST	56650	France
+Citadelle de Port-Louis	PORT-LOUIS	56290	France
+Citadelle de Port-Louis	PORT-LOUIS	56290	France
+Les Hardys-Behelec	SAINT-MARCEL - MALESTROIT	56140	France
+Château Gaillard 2, Rue Noé	VANNES	56000	France
+9 et 15 Place Saint-Pierre	VANNES	56000	France
+Parc Saint-Paul	BOURGES	18000	France
+Hôtel des Echevins 13, Rue Edouard Branly	BOURGES	18000	France
+Hôtel Lallemant 6, Rue Bourbonnoux	BOURGES	18000	France
+Hôtel Cujas 4, Rue des Arènes	BOURGES	18000	France
+Place Etienne Dolet	BOURGES	18000	France
+10-12, Rue de la Victoire	CHATEAUMEILLANT	18370	France
+Place du Général Leclerc	MEHUN-SUR-YEVRE	18500	France
+Cours Manuel	SAINT-AMAND-MONTROND	18200	France
+Service patrimoine Place Aristide Briand	VIERZON	18100	France
+Rue des Ecoles	BONNEVAL	28800	France
+Direction des Arts et du Patrimoine Culturel et Historique 29, Cloître Notre-Dame	CHARTRES	28000	France
+5 bis, Bd de la Courtille	CHARTRES	28000	France
+1, rue de la République	CHARTRES-MAINVILLIERS	28300	France
+3, rue Toufaire	CHATEAUDUN	28200	France
+5-7, Place du musée	DREUX	28100	France
+4, rue du Docteur Proust B.P. 20025	ILLIERS-COMBRAY	28120	France
+Rue du Château	NOGENT-LE-ROTROU	28400	France
+Place Farcot	SAINVILLE	28700	France
+Rue Charles Brillaud BP 154	ARGENTON-SUR-CREUSE	36200	France
+31-33 Rue Hersent Luzarche	AZAY-LE-FERRON	36290	France
+2, Rue Descente-des-Cordeliers	CHATEAUROUX	36000	France
+23, Rue de l'Hospice Saint-Roch B.P. 150	ISSOUDUN Cedex	36100	France
+71, Rue Venôse	LA CHATRE	36400	France
+Musée de Géologie Régionale	LANGE	36600	France
+Château Naillac	LE BLANC	36300	France
+"Les Mersans" B.P. 6	SAINT-MARCEL	36200	France
+Musée de la poste	AMBOISE	37400	France
+60, Rue Concorde B.P. 247	AMBOISE Cedex	37402	France
+44, Rue Haute-Saint-Maurice	CHINON	37500	France
+29, Rue Descartes	DESCARTES	37160	France
+Château du Grand-Pressigny	LE GRAND PRESSIGNY	37350	France
+Musée du Terroir	LOCHES	37600	France
+1, rue Lansyer	LOCHES	37600	France
+1, Place du Marché	RICHELIEU	37120	France
+Château de Saché	SACHE	37190	France
+Place du Château	SAINTE-MAURE-DE-TOURAINE	37800	France
+10, Faubourg Rue	SAVIGNE-SUR-LATHAN	37340	France
+80, Route de Candes	SAVIGNY-EN-VERON	37420	France
+Maison de la Devinière	SEUILLY	37500	France
+3, Rue du Président Merville	TOURS	37000	France
+18, Place François Sicard	TOURS	37000	France
+Cloître Saint-Julien 8, Rue Nationale	TOURS	37000	France
+Cellier Saint-Julien 16, Rue Nationale	TOURS	37000	France
+25, Rue du Commerce B.P. 1105	TOURS Cedex	37011	France
+Place du Musée	YZEURES-SUR-CREUSE	37290	France
+"Les Jacobins"  Rue Anne de Bretagne	BLOIS	41000	France
+1, Place du Château	BLOIS	41000	France
+Château de Blois	BLOIS	41000	France
+Château de la Corbillière	MER	41500	France
+106, Rue des Venages	NAVEIL	41100	France
+Moulin du Chapitre B.P. 147	ROMORANTIN-LANTHENAY Cedex	41206	France
+Hôtel de Ville	THESEE	41140	France
+Cloître de la Trinité	VENDOME	41100	France
+Quartier du Paradis	ARTENAY	45410	France
+Hôtel de Ville - Service patrimoine 20, Rue du Change	BEAUGENCY	45190	France
+Ecuries du Château 1, Place Aristide Briand	CHATEAUNEUF-SUR-LOIRE	45110	France
+2, Faubourg Puyrault	CHATILLON-COLIGNY	45230	France
+Château de Gien B.P. 99	GIEN Cedex	45503	France
+Espace culturel La Monnaye 22 Rue des Remparts	MEUNG-SUR-LOIRE	45130	France
+2, rue de la Chaussée	MONTARGIS	45200	France
+7, Rue du Château	MONTARGIS	45200	France
+6, Rue Marcel Proust	ORLEANS	45000	France
+Square Abbé Desnoyers Hôtel Cabu	ORLEANS	45000	France
+1, rue Fernand Rabier	ORLEANS	45000	France
+17, rue de la Couronne	PITHIVIERS	45300	France
+12 Avenue de la Dernière Cartouche	BAZEILLES	08140	France
+31, Place Ducale	CHARLEVILLE-MEZIERES	08000	France
+Quai Arthur Rimbaud	CHARLEVILLE-MEZIERES	08000	France
+Mairie	GIVET	08600	France
+Mairie	MOUZON	08210	France
+Place Noiret-Chaigneau	RETHEL	08300	France
+BP 10322	SEDAN	08200	France
+Hôtel de ville	BAR-SUR-AUBE	10200	France
+34, Rue de l'Ecole Militaire	BRIENNE-LE-CHATEAU	10500	France
+Rue Boursault	MUSSY-SUR-SEINE	10250	France
+Rue Gué de la Loge B.P. 40	NOGENT-SUR-SEINE Cedex	10401	France
+Quai des Comtes-de-Champagne	TROYES	10000	France
+7, Rue de La Trinité	TROYES	10000	France
+14, Place Saint-Pierre	TROYES	10000	France
+4, Rue Chrestiens de Troyes	TROYES	10000	France
+1, Rue Chrestien-de-Troyes	TROYES	10000	France
+4, Rue Vauluisant	TROYES	10000	France
+Conservation des Musées  2, rue Chrestien de Troyes	TROYES	10000	France
+Parc du Château	BOURBONNE-LES-BAINS	52400	France
+7/9, Avenue Foch	CHAUMONT	52000	France
+Place du Palais	CHAUMONT	52000	France
+Musée du Breuil de Saint-Germain	LANGRES	52204	France
+Place du Centenaire B.P. 183	LANGRES Cedex	52204	France
+Place Charles de Gaulle B.P. 1	NOGENT	52800	France
+17, Rue de la Victoire	SAINT-DIZIER	52100	France
+Place Alexandre Godart	CHALONS-EN-CHAMPAGNE	51000	France
+13, rue Pasteur	CHALONS-EN-CHAMPAGNE	51000	France
+13, Avenue de Champagne	EPERNAY	51200	France
+Maison du Parc Chemin de Nanteuil	POURCY	51160	France
+53, rue Simon	REIMS	51100	France
+Direction de la Culture de la ville de Reims 1, place Museux	REIMS	51100	France
+8, Rue Chanzy	REIMS	51100	France
+36, Place du Forum	REIMS	51100	France
+Place Général Leclerc	SAINTE-MENEHOULD	51800	France
+Hotel de Ville Avenue Antoine Serafini	AJACCIO	20000	France
+50-52, rue du Cardinal Fesch	AJACCIO	20000	France
+Rue Saint-Charles	AJACCIO	20000	France
+Avenue Lieutenant Aviateur de Peretti Quartier Pratu	LEVIE	20170	France
+Boulevard Jacques Nicolai	SARTENE	20100	France
+Fort de Matra	ALERIA	20270	France
+Mairie de Bastia Avenue Pierre Giudicelli	BASTIA Cedex	20410	France
+La Citadelle B.P. 73	CORTE	20250	France
+Hameau de la Stretta 20261	MOROSAGLIA	20218	France
+96, Grande rue	BESANCON	25000	France
+LA CITADELLE Rue des Fusillés	BESANCON	25000	France
+1, Place de la Révolution	BESANCON	25000	France
+La Citadelle Rue des Fusillés	BESANCON	25000	France
+La Citadelle Rue des Fusillés de la Résistance	BESANCON	25000	France
+8, Place Saint-Martin B.P. 95287	MONTBELIARD	25200	France
+B.P. 95287	MONTBELIARD Cedex	25205	France
+Rue du Musée	NANCRAY	25360	France
+Place Robert Fernier	ORNANS	25290	France
+2, Place d'Arçon	PONTARLIER	25300	France
+Château de Champlitte	CHAMPLITTE	70600	France
+206, Le Petit Fahyr	FOUGEROLLES	70220	France
+6, rue Pigalle B.P. 89	GRAY Cedex	70103	France
+Château-Lambert	LE HAUT-DU-THEM	70440	France
+36, Rue Victor Genoux	LUXEUIL-LES-BAINS	70300	France
+1, Rue des Ursulines	VESOUL	70000	France
+Grande Rue	ARBOIS	39600	France
+Château Pécauld B.P. 41	ARBOIS	39600	France
+26, rue Baronne Delort	CHAMPAGNOLE	39300	France
+85, rue des Arènes	DOLE	39100	France
+Place Philibert de Châlon	LONS-LE-SAUNIER	39000	France
+7, Rue des Cordeliers	LONS-LE-SAUNIER	39000	France
+5, Rue du Murgin	MOIRANS-EN-MONTAGNE	39260	France
+Place Jean Jaurès	MOREZ	39400	France
+Hôtel de Ville 49, Grande Rue	POLIGNY	39800	France
+3, Place de l'Abbaye	SAINT-CLAUDE	39200	France
+Place des Anciennes Salines	SALINS-LES-BAINS	39110	France
+Place des Salines	SALINS-LES-BAINS	39110	France
+Abbaye de Baume-Les-Messieurs	VOITEUR	39210	France
+16, Rue Frédéric Japy	BEAUCOURT	90500	France
+Musée(s) de Belfort B.P. 20223	BELFORT Cedex	90004	France
+Château de Belfort B.P. 733	BELFORT cedex	90020	France
+2, Rue de la Madeleine	ETUEFFONT	90170	France
+Habitation Murat	GRAND-BOURG de MARIE-GALANTE	97112	France
+440 Route de la Rosette	LE MOULE	97160	France
+Office du Tourisme 1 Centre Commercial Marina	POINTE-A-PITRE	97110	France
+9, rue de Nozière	POINTE-A-PITRE	97110	France
+24, Rue Peynier	POINTE-A-PITRE -GUADELOUPE	97110	France
+78, Rue Mme Payé	CAYENNE	97300	France
+1, Avenue du Général-de-Gaulle	CAYENNE - GUYANE	97300	France
+Rue Gaston Monnerville Le Bourg	REGINA	97390	France
+78, Rue de Paris	BIEVRES	91570	France
+5, Place des Droits de l'Homme	BOUSSY-SAINT-ANTOINE	91800	France
+16, Rue du Réveillon	BRUNOY	91800	France
+Place du Général de Gaulle	DOURDAN	91410	France
+Mairie d'Etampes B.P. 109	ETAMPES Cedex	91152	France
+Château Buchillot 14, Rue de l'Abreuvoir	BOULOGNE-BILLANCOURT	92100	France
+14, Rue du Port	BOULOGNE-BILLANCOURT	92100	France
+Espace Landowski 28, avenue André Morizet	BOULOGNE-BILLANCOURT	92100	France
+14, Rue Max Blondat	BOULOGNE-BILLANCOURT	92100	France
+21, Rue des Châtaigniers	CLAMART	92140	France
+2, Rue Gabriel Péri	COLOMBES	92700	France
+Parc de Bécon 178, Boulevard Saint Denis	COURBEVOIE	92400	France
+Mairie de Courbevoie	COURBEVOIE	92400	France
+16, Rue Auguste Gervais	ISSY-LES-MOULINEAUX	92130	France
+19, Avenue Auguste Rodin	MEUDON	92190	France
+11, Rue des Pierres	MEUDON	92190	France
+Hôtel Arturo Lopez 12, Rue du Centre	NEUILLY-SUR-SEINE	92200	France
+Avenue du Château de Malmaison	RUEIL-MALMAISON	92500	France
+13, Boulevard Foch	RUEIL-MALMAISON Cedex	92501	France
+13, Boulevard Foch	RUEIL-MALMAISON Cedex	92501	France
+"Jardin des Avelines" 60, Rue Gounod	SAINT-CLOUD	92210	France
+Musée de l'Île de France	SCEAUX	92330	France
+2, Place de la Manufacture	SEVRES	92310	France
+Avenue Charles de Gaulle Passerelle des Arts	SURESNES	92150	France
+Hôtel de Montmorency-Bours 85, Rue du Cherche Midi	PARIS	75006	France
+Jardin des Plantes 36, rue Geoffroy Saint-Hilaire	PARIS	75005	France
+107, Rue de Rivoli	PARIS	75001	France
+Galerie de Botanique (Musée National d'Histoire Naturelle)	PARIS	75005	France
+62, Rue de Lille	PARIS	75007	France
+Hôtel Biron 77, rue de Varenne	PARIS	75007	France
+2, Rue de la Légion d'Honneur	PARIS	75007	France
+100 bis, rue d'Assas	PARIS	75006	France
+6, Rue Furstenberg	PARIS	75006	France
+1, Rue des Fossés Saint-Bernard Place Mohammed V	PARIS		France
+Hôtel de Miramion 47, Quai de la Tournelle	PARIS	75005	France
+57, Rue Cuvier	PARIS	75005	France
+Jardin des Plantes 2, rue Buffon	PARIS	75005	France
+7, Avenue Velasquez	PARIS	75008	France
+Jardin des Plantes 36, Rue Geoffroy Saint-Hilaire	PARIS	75005	France
+Hôtel National des Invalides 129, rue de Grenelle	PARIS	75007	France
+Avenue Winston-Churchill	PARIS	75008	France
+Place du Trocadéro	PARIS	75116	France
+1, avenue du Colonel Henri Rol-Tanguy (place Denfert-Rochereau)	PARIS	75014	France
+6, Avenue du Mahatma Gandhi	PARIS	75116	France
+6, Place d'Iéna	PARIS	75116	France
+12, Rue Cortot	PARIS	75018	France
+59, Avenue Foch	PARIS	75116	France
+14, Rue de la Rochefoucauld	PARIS	75009	France
+6, Place des Vosges	PARIS	75004	France
+Palais de Chaillot 1, Place du Trocadéro et du 11 Novembre	PARIS	75116	France
+11, Avenue du Pdt Wilson	PARIS	75116	France
+23, Allée de la 2ème DB	PARIS	75015	France
+16, Rue Cadet	PARIS	75009	France
+16, Rue Chaptal	PARIS	75009	France
+Palais de la Porte Dorée 293, avenue Daumesnil	PARIS	75012	France
+16, Rue Antoine Bourdelle	PARIS	75015	France
+4 rue Marie-Rose	PARIS	75014	France
+293, avenue Daumesnil	PARIS	75012	France
+221, Avenue Jean-Jaurès	PARIS	75019	France
+Hôtel de Saint-Aignan 71, Rue du Temple	PARIS	75003	France
+23, Rue de Sévigné	PARIS	75003	France
+8, Rue Elzévir	PARIS	75003	France
+Hôtel Salé 5, Rue de Thorigny	PARIS	75003	France
+60, rue des Archives	PARIS	75003	France
+34, Quai du Louvre	PARIS	75001	France
+Jardin des Tuileries	PARIS	75001	France
+25, Rue de l'Yvette	PARIS	75016	France
+6, Place Paul Painlevé	PARIS	75005	France
+47, rue Raynouard	PARIS	75016	France
+63, Rue de Monceau	PARIS	75008	France
+43, Avenue de Villiers	PARIS	75017	France
+93, avenue de France	PARIS	75013	France
+17, Place du Trocadéro	PARIS	75116	France
+10, Avenue Pierre 1er de Serbie	PARIS	75116	France
+292, rue Saint-Martin	PARIS cedex 03	75141	France
+Place Georges Pompidou	PARIS Cedex 04	75191	France
+1, Place Alphonse Laveran	PARIS Cedex 05	75230	France
+11, Quai de Conti	PARIS Cedex 06	75270	France
+222, rue de l'Université	PARIS cedex 07	75343	France
+34, Boulevard de Vaugirard	PARIS Cedex 15	75731	France
+92, Grande Rue	BARBIZON	77630	France
+Place de la République	CHELLES	77500	France
+1, Rue Gabriel de Mortillet	CHELLES	77500	France
+Hôtel de Ville B.P. 171	COULOMMIERS cedex	77527	France
+13, Rue Louis-Braille	COUPVRAY	77700	France
+Musée Municipal	CRECY-LA-CHAPELLE	77580	France
+88, Rue St-Honoré	FONTAINEBLEAU	77300	France
+Château de Fontainebleau	FONTAINEBLEAU	77300	France
+8, Cour Pierre Herbin	LAGNY-SUR-MARNE	77405	France
+937, Rue Chapu	LE MEE-SUR-SEINE	77350	France
+5, Place Charles de Gaulle	MEAUX	77100	France
+Hôtel de Ville BP 227	MEAUX Cedex	77107	France
+Ecole des Officiers de la Gendarmerie Nationale 8, rue Emile Leclerc	MELUN	77017	France
+5, Rue du Franc Mûrier	MELUN Cedex	77008	France
+Place de Samois	MORET-SUR-LOING	77250	France
+48, Avenue Etienne Dailly	NEMOURS	77140	France
+Rue Gautier 1er	NEMOURS	77140	France
+7, rue du Palais	PROVINS	77160	France
+17, Avenue de la Ferté-Sous-Jouarre	SAINT-CYR-SUR-MORIN	77750	France
+Ferme de CouleOUIn Place Georges Henri Rivière	SAVIGNY-LE-TEMPLE	77176	France
+Pont de Valvins 4, Promenade Stéphane Mallarmé	VULAINES-SUR-SEINE	77870	France
+Aéroport de Paris - Le Bourget BP 173	LE BOURGET Cedex	93352	France
+Avenue du Consul Général Nordling	LIVRY-GARGAN	93190	France
+31, Boulevard Théophile Sueur	MONTREUIL-SOUS-BOIS	93100	France
+22 bis, rue Gabriel Péri	SAINT-DENIS	93200	France
+12, Rue Albert Dhalenne	SAINT-OUEN	93400	France
+5, rue Pierre-Guienne	ARGENTEUIL	95100	France
+Château	ECOUEN	95440	France
+Place du Château	GUIRY-EN-VEXIN	95450	France
+46, Grande Rue	L'ISLE-ADAM	95290	France
+56, Rue de Paris	LOUVRES	95380	France
+5, Rue Jean-Jacques Rousseau	MONTMORENCY	95160	France
+4, Rue Lemercier	PONTOISE	95300	France
+17, Rue du Château	PONTOISE	95300	France
+1, Grande Rue Charles de Gaulle	BRY-SUR-MARNE	94360	France
+Parc Vercors 88, Avenue Marx Dormoy - B.P. 135 B.P. 135	CHAMPIGNY-SUR-MARNE Cedex	94501	France
+Ferme de Cottinville 41, rue Maurice Ténine	FRESNES	94260	France
+5, Rue Saint-Hilaire	LA VARENNE-SAINT-HILAIRE	94210	France
+Ecole Nationale Vétérinaire d'Alfort 7, Avenue du Gal de Gaulle	MAISONS-ALFORT Cedex	94704	France
+36, Boulevard Gallieni	NOGENT-SUR-MARNE	94130	France
+31, rue Louis-Lenoir	VILLIERS-SUR-MARNE	94350	France
+Place de la Libération B.P. 147	VITRY SUR SEINE Cedex	94404	France
+Château du Prieuré 3, Place Gévelot	CONFLANS-SAINTE-HONORINE	78700	France
+Château de l'Eglantine 54, rue Charles de Gaulle	JOUY-EN-JOSAS	78350	France
+La Grille Royale Parc de Marly	LOUVECIENNES	78430	France
+Route des Granges	MAGNY-LES-HAMEAUX	78114	France
+1, Rue Thiers	MANTES-LA-JOLIE	78200	France
+24, rue Quincampoix	MAULE	78580	France
+26, Rue Pasteur	MEDAN	78670	France
+5, Rue Maurice Ravel	MONTFORT-L'AMAURY	78490	France
+1, Enclos de l'Abbaye	POISSY	78300	France
+12, Rue Saint-Louis	POISSY	78300	France
+4, Place Jeanne d'Arc	RAMBOUILLET	78120	France
+Jardin des Arts Place André Malraux	SAINT-GERMAIN-EN-LAYE	78100	France
+2 bis, Rue Maurice Denis B.P. 60222	SAINT-GERMAIN-EN-LAYE Cedex	78102	France
+Château Place Charles de Gaulle	SAINT-GERMAIN-EN-LAYE Cedex	78105	France
+B.P. 46	SAINT-QUENTIN-YVELINES Cedex	78185	France
+Domaine de Coubertin	ST-REMY-LES-CHEVREUSE	78470	France
+54, Boulevard de la Reine	VERSAILLES	78000	France
+R.P. 834	VERSAILLES Cedex	78008	France
+1, Rue de Verdun	CARCASSONNE	11000	France
+Rampe du Presidial B.P. 1100	CASTELNAUDARY Cedex	11491	France
+Mairie	LASTOURS	11600	France
+Promenade du Tivoli B.P. 88	LIMOUX Cedex	11304	France
+B.P. 823	NARBONNE cedex	11108	France
+B.P. 823	NARBONNE Cedex	11108	France
+Allée des Potiers	SALLELES D'AUDE	11590	France
+Place de la Libération	SIGEAN	11130	France
+Rue de Brouzen Pôle culturel de Rochebelle	ALES	30100	France
+Rue Jean Mayodon	ALES	30100	France
+24, avenue Paul Langevin	BAGNOLS-SUR-CEZE	30200	France
+Hôtel de ville place Mallet	BAGNOLS-SUR-CEZE	30200	France
+Mairie Rue de l'Hôtel de ville	BEAUCAIRE	30300	France
+1, Rue des Calquières	LE VIGAN	30120	France
+13, Boulevard Amiral Courbet	NIMES	30000	France
+6, Rue Alexandre Ducros	NIMES	30000	France
+Place aux Herbes	NIMES	30000	France
+Place de la Maison Carrée	NIMES Cedex 1	30031	France
+13 Bis, Bd Amiral Courbet	NIMES Cedex 9	30033	France
+Rue Cité Foulc	NIMES Cedex 9	30033	France
+Maison des Chevaliers 2, Rue Saint-Jacques	PONT-SAINT-ESPRIT	30130	France
+Place de l'Ancienne Mairie	PONT-SAINT-ESPRIT	30130	France
+Place de la Maison Romane	SAINT-GILLES-DU-GARD	30800	France
+B.P. 08	SAINT-JEAN DU GARD	30270	France
+Ancien Evêché BP 103	UZES cedex	30701	France
+3, Rue de la République	VILLENEUVE-LES-AVIGNON	30400	France
+5 rue de la Fraternité	AGDE	34300	France
+Place de la Révolution	BEZIERS	34500	France
+Rampe du 96ème caserne Saint Jacques	BEZIERS	34500	France
+15 Place Pierre Semard	BEZIERS	34500	France
+Quai du Port de Pêche	BOUZIGUES	34140	France
+La Clape	CAP D'AGDE	34300	France
+4 bis, Rue Lucien Salette	FRONTIGNAN-LA-PEYRADE	34110	France
+Espace Campanaire André-Malraux	HEREPIAN	34600	France
+390, Avenue de Pérols	LATTES Cédex	34970	France
+1, Rue du Musée	LES MATELLES	34270	France
+Hôtel du Cardinal de Fleury Square Georges Auric	LODEVE	34700	France
+Place du Monument	MINERVE	34210	France
+Hôtel de Varennes 2, Place Pétrarque	MONTPELLIER	34000	France
+Hôtel des Trésoriers de France 7, Rue Jacques-Cœur	MONTPELLIER	34000	France
+13, rue Montpellieret	MONTPELLIER	34000	France
+6, bis rue Montpelliéret	MONTPELLIER	34000	France
+951, Avenue Agropolis	MONTPELLIER Cedex 5	34394	France
+Hôtel de ville Rue des Lavoirs	MURVIEL-LES-MONTPELLIER	34570	France
+3, Rue Albert-Paul Allies	PEZENAS	34120	France
+8, Grand'Rue	SAINT-PONS-DE-THOMIERES	34220	France
+148, Rue François Desnoyer	SETE	34200	France
+3, Rue de l'Epine	MENDE	48000	France
+Route de Finiels	PONT DE MONTVERT	48220	France
+8, Bd Maréchal Joffre B.P. 60413	CERET	66403	France
+Villa Pams Route de Port-Vendres	COLLIOURE	66190	France
+Château Roussillon	PERPIGNAN	66000	France
+12, Place Fontaine Neuve	PERPIGNAN	66000	France
+16, rue de l'Ange B.P. 931	PERPIGNAN Cedex	66931	France
+Mairie de Perpignan B.P. 931	PERPIGNAN Cedex	66931	France
+42, Avenue de Grande-Bretagne B.P. 931	PERPIGNAN Cedex	66931	France
+Mairie	PORT-VENDRES	66660	France
+Cal Mateu	SAINTE-LEOCADIE	66800	France
+Avenue Léon-Jean Grégory	TAUTAVEL	66720	France
+26 bis, boulevard Jules Ferry	BRIVE-LA-GAILLARDE	19100	France
+Musée du Président Jacques Chirac	SARRAN	19800	France
+1, Rue du 9 juin 1944	TULLE	19000	France
+Place Monseigneur Berteaud	TULLE	19000	France
+Musée du Pays d'Ussel B.P. 63	USSEL	19208	France
+Avenue des Lissiers B.P. 89	AUBUSSON	23200	France
+Hôtel de la Sénatorerie 22, avenue de la Sénatorerie	GUERET	23000	France
+1, place Saint-Thyrse	CHATEAUPONSAC	87290	France
+1, Place de l'Evêché	LIMOGES	87000	France
+8 bis, Place Winston Churchill	LIMOGES	87000	France
+Place du Château	ROCHECHOUART	87600	France
+1, place Jean-Marie Keyser	DENEUVRE	54120	France
+Avenue du Général de Gaulle B.P. 15	JARVILLE-LA-MALGRANGE	54140	France
+167, Rue Lucien Galtier	LANEUVEVILLE-DEVANT-NANCY	54410	France
+Rue de la Manutention	LONGWY	54400	France
+	LUNEVILLE	54300	France
+3, Place Stanislas B.P. 218	NANCY	54004	France
+64, Grande Rue B.P. 3328	NANCY	54014	France
+36-38, rue du Sergent Blandan	NANCY	54000	France
+34, Rue Sainte-Catherine	NANCY	54000	France
+Hôtel de la Monnaie 13, Rue Magot de Rogéville	PONT-A-MOUSSON	54700	France
+25, Rue Gouvion Saint-Cyr	TOUL	54200	France
+Esplanade du Château	BAR-LE-DUC	55000	France
+7, Avenue Carcano	COMMERCY	55200	France
+La Citadelle B.P. 28	MONTMEDY	55600	France
+Rue du Palais de Justice	SAINT-MIHIEL	55300	France
+Clos Raymond Poincaré	SAMPIGNY	55300	France
+Rue de la Citadelle	STENAY	55700	France
+2, Rue Louis XVI	VARENNES-EN-ARGONNE	55270	France
+Hôtel de Ville	VAUCOULEURS	55140	France
+16, Rue de la Belle Vierge	VERDUN	55100	France
+Rue de Metz	GRAVELOTTE	57130	France
+Porte de France	MARSAL	57630	France
+Place Robert Schumann	MEISENTHAL	57960	France
+2, Rue du Haut Poirier	METZ	57000	France
+Lieu dit Haméviller	NEUFCHEF	57700	France
+Musée de la Mine - Carreau Wendel	PETITE-ROSSELLE	57540	France
+Hôtel de Ville Place d’Armes	PHALSBOURG	57370	France
+Rue de la Paix	SARREBOURG	57400	France
+125, Avenue de la Blies	SARREGUEMINES	57200	France
+15-17, Rue Poincaré	SARREGUEMINES	57200	France
+Cour du Château B.P. 30352	THIONVILLE Cedex	57125	France
+Hôtel de la Monnaie Rue Vignon	VIC-SUR-SEILLE	57630	France
+42 quai de Dogneville	EPINAL	88000	France
+1, Place Lagarde B.P. 436	EPINAL Cedex	88011	France
+32, Rue Général Leclerc	MIRECOURT CEDEX	88500	France
+30, Avenue Louis Français	PLOMBIERES-LES-BAINS	88370	France
+12, Rue du Général Humbert	REMIREMONT	88200	France
+70, Rue Charles de Gaulle	REMIREMONT	88200	France
+11, rue Saint-Charles B.P. 275	SAINT-DIE-DES-VOSGES Cedex	88107	France
+9, rue de la Liberté	FORT-DE-FRANCE	97200	France
+10, Boulevard du Général de Gaulle	FORT-DE-FRANCE - MARTINIQUE-	97200	France
+B.P. 4030	FORT-DE-FRANCE TERRE-SAINVILLE Cedex	97254	France
+Quartier Vatable	LES TROIS ILETS	97229	France
+Anse Figuier	RIVIERE-PILOTE	97211	France
+Rue Victor Hugo	SAINT-PIERRE	97250	France
+Rue du Rocher	FOIX	09000	France
+65, Rue Jean Jaurès	LAVELANET	09300	France
+Place de l'Eglise	LE MAS D'AZIL	09290	France
+Route de Paris	MONTGAILHARD	09330	France
+32, Village	MONTSEGUR	09300	France
+Route de Montjoie	SAINT-LIZIER	09190	France
+Avenue Paul Ramadier	DECAZEVILLE	12300	France
+Place Frontin	ESPALION	12500	France
+Ancienne église St. Jean Baptiste 35, rue Droite	ESPALION	12500	France
+Hôtel de Pégayolles Place du Maréchal Foch	MILLAU	12100	France
+14, Place Eugène Raynaldy	RODEZ	12000	France
+Place Georges Clemenceau	RODEZ	12000	France
+Communauté d'agglomération du Grand Rodez 1, Place Adrien-Rozier - B.P. 531	RODEZ Cedex	12005	France
+Rue Saint-Pierre	ROQUEFORT-SUR-SOULZON	12250	France
+Musée des Arts et Métiers	SALLES-LA-SOURCE	12330	France
+Ancienne Eglise Saint-Firmin	SALMIECH	12120	France
+Place de la Fontaine	VILLEFRANCHE-DE-ROUERGUE	12200	France
+4, Place Louis Blanc	AUCH	32000	France
+2, Rue Jules Ferry	CONDOM	32100	France
+Place de la République	EAUZE	32180	France
+Place de l'Hôtel de ville	L'ISLE JOURDAIN	32600	France
+Place du Général de Gaulle Hôtel de Ville	LECTOURE	32700	France
+Mairie de Marciac 19, Place de l'Hôtel de Ville	MARCIAC	32230	France
+13, rue de l'Evêché	MIRANDE	32300	France
+Musée de Préhistoire	AURIGNAC	31420	France
+18, Allée d'Etigny	BAGNERES-DE-LUCHON	31110	France
+Place Henri Dulion	MARTRES-TOLOSANE	31220	France
+Bâtiment de l'Ancienne Gendarmerie	SAINT-BERTRAND-DE-COMMINGES	31510	France
+6, place de Mas Saint Pierre	SAINT-GAUDENS	31800	France
+93, avenue Jules Julien	TOULOUSE	31400	France
+35, allées Jules Guesde	TOULOUSE	31000	France
+Hôtel Dumay 7, Rue du May	TOULOUSE	31000	France
+21, rue de Metz	TOULOUSE	31000	France
+13, Rue de la Pléau	TOULOUSE	31000	France
+Place Saint Sernin	TOULOUSE	31000	France
+76, allées Charles-de-Fitte	TOULOUSE	31300	France
+17, rue du Japon	TOULOUSE	31400	France
+Rue Hount-Blanque	BAGNERES-DE-BIGORRE	65200	France
+Place des Thermes	BAGNERES-DE-BIGORRE	65200	France
+7, Place des Thermes de Salut	BAGNERES-DE-BIGORRE	65200	France
+Château fort	LOURDES	65100	France
+Presbytère	LUZ-SAINT-SAUVEUR	65120	France
+Château-Fort de Mauvezin	MAUVEZIN	65130	France
+Jardin Massey	TARBES	65000	France
+Centre de Préhistoire du Pech Merle Mairie	CABRERETS	46330	France
+792, Rue Emile Zola	CAHORS	46000	France
+4, Rue des Frères Champollion	FIGEAC	46100	France
+Hôtel de la Monnaie Place Vival - BP. 10060	FIGEAC Cedex	46102	France
+Place de Tolentino	LABASTIDE MURAT	46240	France
+Rue de la Ville	LUZECH	46140	France
+Palais de la Raymondie Place des Consuls	MARTEL	46600	France
+Parvis des Sanctuaires	ROCAMADOUR	46500	France
+Musée Départemental de Cuzals	SAULIAC-SUR-CELE	46330	France
+Place de l'Abbaye	SOUILLAC	46200	France
+Mairie	VAYRAC	46110	France
+Palais de la Berbie B.P. 100	ALBI Cedex	81003	France
+Château de Cayla	ANDILLAC	81140	France
+B.P. 10406	CASTRES Cedex	81108	France
+Hôtel de Ville B.P. 406	CASTRES Cedex	81108	France
+Le Portail Peint 12 , Grand Rue Raymond VII	CORDES-SUR-CIEL	81170	France
+"La Ramade"	FERRIERES	81260	France
+Place Philadelphe Thomas	GAILLAC	81600	France
+Place Saint-Michel	GAILLAC	81600	France
+Avenue Dom-Vayssette	GAILLAC	81600	France
+Rue de la Rive	LA-BASTIDE-ROUAIROUX	81270	France
+1, rue Jouxaygues	LAVAUR Cedex	81500	France
+10, Rue Victor Mazies	LISLE-SUR-TARN	81310	France
+Mairie de Rabastens 2, Rue Amédée Clausade	RABASTENS	81800	France
+Mairie Place de la Halle	AUVILLAR	82340	France
+15, Rue Jean de Comère	GRISOLLES	82170	France
+4, Rue de l'Abbaye	MOISSAC	82200	France
+2, Place Antoine Bourdelle	MONTAUBAN	82000	France
+Musée Ingres BP 752	MONTAUBAN Cedex	82013	France
+Hôtel de Ville Place de la Mairie	SAINT-ANTONIN-NOBLE-VAL	82140	France
+215, Avenue Anatole-France	ANZIN	59410	France
+Musée d'Histoire et d'Archéologie BP 90	AVESNES-SUR-HELPE	59440	France
+Musée Benoît de Puydt 24, Rue du Musée	BAILLEUL	59270	France
+Allée Chanoine Henri Biévelet B.P. 40041	BAVAY	59570	France
+1, Rue du Mont-de-Piété	BERGUES	59380	France
+192, rue Edouard Lalo	BOUCHAIN	59111	France
+Musée Diocésain d'Art Sacré	CAMBRAI	59400	France
+15, Rue de l'Epée	CAMBRAI	59400	France
+26 Grand Place  B.P. 38	CASSEL	59670	France
+9, Place Wilson	DENAIN	59220	France
+130, Rue des Chartreux	DOUAI	59500	France
+Jardin des Sculptures Avenue de Bains	DUNKERQUE	59140	France
+Entrepôt des Tabacs 9, Quai de la Citadelle	DUNKERQUE	59140	France
+Place du Général de Gaulle B.P. 4212	DUNKERQUE CEDEX	59378	France
+Rue Paul Bert	ESCAUDAIN	59124	France
+Place Maria Blondeau B.P. 65	FOURMIES CEDEX	59612	France
+Château Arsenal Place Charles Valentin	GRAVELINES	59820	France
+Ancien Couvent des Augustins Place Georges Degroote	HAZEBROUCK	59190	France
+Palais Fénelon	LE CATEAU-CAMBRESIS	59360	France
+Fosse Delloye B.P. 39	LEWARDE	59287	France
+32, Rue de la Monnaie	LILLE	59800	France
+19, rue de Bruxelles	LILLE	59000	France
+18, bis rue de Valmy	LILLE	59000	France
+Rue Corbineau	MARCHIENNES	59870	France
+Hôtel de ville BP 269	MAUBEUGE	59607	France
+24, rue des Champs	ROUBAIX	59100	France
+Tour Abbatiale Grand- Place	SAINT-AMAND-LES-EAUX	59230	France
+1, Rue du général de Gaulle B.P. 2	SARS-POTERIES	59216	France
+2, Rue Paul Doumer	TOURCOING	59200	France
+Boulevard Watteau	VALENCIENNES	59300	France
+1, Allée du Musée	VILLENEUVE-D'ASCQ	59650	France
+Ancienne abbaye Saint-Vaast 22, Rue Paul Doumer	ARRAS	62000	France
+60, Rue de l'Impératrice	BERCK-SUR-MER	62600	France
+211, avenue Kennedy	BETHUNE	62400	France
+115, Boulevard Eurvin	BOULOGNE-SUR-MER	62317	France
+Rue de Bernet	BOULOGNE-SUR-MER	62200	France
+25, rue Richelieu	CALAIS	62100	France
+Rue Jean Macé B.P. 107	DESVRES	62240	France
+8, Place du Général de Gaulle	ETAPLES-SUR-MER	62630	France
+50, rue André Deprez	HARNES	62440	France
+Avenue du Golf	LE TOUQUET-PARIS-PLAGE	62520	France
+Hôtel Saint-Walloy	MONTREUIL-SUR-MER	62170	France
+14, Rue Carnot	SAINT-OMER	62500	France
+9, Rue Henri Dupuis	SAINT-OMER	62500	France
+Hôtel de Ville B.P. 40109	SAINT-POL-SUR-TERNOISE Cedex	62166	France
+84, Grand' Place Foch	SAMER	62830	France
+Place du 6 Juin	ARROMANCHES	14117	France
+Hôtel du Doyen, rue Lambert Leforestier  BP 21215	BAYEUX	14400	France
+Mairie 13, rue du Paradis	BEAUMONT-EN-AUGE	14950	France
+Le Château	CAEN	14000	France
+Musée de la Société des Antiquaires	CAEN	14000	France
+52, Rue Saint-Pierre	CAEN	14000	France
+Le Château	CAEN	14000	France
+Hôtel de ville	CAEN Cedex	14027	France
+Esplanade Dwight Eisenhower B.P. 6261	CAEN Cedex	14066	France
+Musée du Vieux Honfleur B.P. 60082	HONFLEUR	14603	France
+Place Erik-Satie B.P. 80049	HONFLEUR cedex	14602	France
+Moulin de Marcy	LE MOLAY-LITTRY	14330	France
+Rue de la Fosse Frandemiche	LE MOLAY-LITTRY	14330	France
+Saint-Germain de Livet	LISIEUX	14100	France
+38, Boulevard Pasteur	LISIEUX	14100	France
+107, rue Grande	ORBEC	14290	France
+Château de Pontécoulant	PONTECOULANT	14110	France
+Rue Saint Benoît	SAINT-PIERRE-SUR-DIVES	14170	France
+Chapelle Notre Dame du Val	TILLY-SUR-SEULLES	14250	France
+64, Rue du Général Leclerc	TROUVILLE-SUR-MER	14360	France
+13, Chemin Haussé	VIEUX	14930	France
+Place Jean-Mermoz B.P. 18	VILLERS-SUR-MER	14640	France
+2, Place Sainte-Anne B.P. 62	VIRE Cedex 02	14502	France
+Place Jean de Saint Avit	AVRANCHES	50300	France
+La Logeraie	BARENTON	50720	France
+Place de la Mairie	BRICQUEBEC	50260	France
+Parvis de l'Abbatiale Rue des Sangles	CERISY-LA-FORET	50680	France
+Fort du Roule Montée des résistants	CHERBOURG-OCTEVILLE	50100	France
+4, Rue Vastel	CHERBOURG-OCTEVILLE	50100	France
+Parc Emmanuel Liais 19, ter rue Bonhomme	CHERBOURG-OCTEVILLE	50100	France
+2, Rue Quesnel-Morinière	COUTANCES	50200	France
+Hôtel de ville Place Hippolyte Mars B.P. 29	EQUEURDREVILLLE-HAINEVILLE	50120	France
+2, Rue Lecarpentier	GRANVILLE	50400	France
+Villa les Rhumbs	GRANVILLE	50400	France
+Place de l'Ithsme - La Haute Ville	GRANVILLE	50400	France
+Ferme de Boisjugan	SAINT-LO	50000	France
+Centre Culturel Jean Lurçat Place du Champ de Mars	SAINT-LO	50000	France
+Le Bourg	SAINT-MICHEL-DE-MONTJOIE	50670	France
+66, Rue Bottin Desylles	SAINT-SAUVEUR-LE-VICOMTE	50390	France
+Ile Tatihou B.P. 3	SAINT-VAAST-LA-HOUGUE	50550	France
+Place Charles de Gaulle	TORIGNI-SUR-VIRE	50160	France
+Rue du Petit Versailles	VALOGNES	50700	France
+Cour du Foyer 25, Rue Général Huard	VILLEDIEU-LES-POELES	50800	France
+Cour Carrée de la Dentelle	ALENCON	61000	France
+Avenue du Château B.P. 229	FLERS cedex	61104	France
+Service Patrimoine 44, Place Fulbert de Beina	L'AIGLE	61300	France
+32, Rue de la Victoire	LA FERTE-MACE	61600	France
+3, Rue du Portail Saint-Denis	MORTAGNE-AU-PERCHE	61400	France
+Prieuré de Sainte-Gaubruge	SAINT-CYR LA ROSIERE	61130	France
+Place du Général de Gaulle	SEES	61500	France
+Ancien logis Abbatial Place Guillaume de Volpiano	BERNAY	27300	France
+Route de Sainte-Marguerite	CONCHES-EN-OUCHE	27190	France
+Direction des affaires culturelles B.P. 186	EVREUX Cedex	27001	France
+2, Rue d'Ivry	LA COUTURE-BOUSSEY	27750	France
+Rue Sainte-Clotilde	LES ANDELYS	27700	France
+Mairie 19, Rue Pierre Mendes France	LOUVIERS Cedex	27406	France
+84, Rue de la République	PONT-AUDEMER	27500	France
+12, Rue du Pont	VERNON	27200	France
+Hôtel de Ville Place de la Libération	BARENTIN	76360	France
+1, Rue Thomas-Bazin	CAUDEBEC-EN-CAUX	76490	France
+Avenue Winston Churchill B.P. 3	CAUDEBEC-EN-CAUX	76490	France
+Rue de Chastes	DIEPPE	76200	France
+Pavillon Flaubert 18, Quai Gustave Flaubert	DIEPPEDALLE-CROISSET	76830	France
+La Fabrique des Savoirs - LA CREA 7 cours Gambetta	ELBEUF	76500	France
+Place d'Orléans	EU	76260	France
+27, Boulevard Albert 1er	FECAMP	76400	France
+21, Rue Alexandre Legros	FECAMP	76400	France
+Mairie d'Harfleur 50, Rue de la République  B.P. 97	HARFLEUR	76700	France
+1, Rue Jérôme Bellarmarto	LE HAVRE	76600	France
+Place du Vieux Marché	LE HAVRE	76600	France
+3, Quai de l'Ile (Quartier Saint-François)	LE HAVRE	76600	France
+2, boulevard Clemenceau	LE HAVRE	76600	France
+1, Rue Elisée Reclus	LE HAVRE	76600	France
+502, Rue Pierre Corneille	LE PETIT-COURONNE	76650	France
+Place Félix Faure	LILLEBONNE	76170	France
+Château de Martainville	MARTAINVILLE-EPREVILLE	76116	France
+Rue Baron Bigot	MONTVILLE	76710	France
+Grande rue St-Pierre	NEUFCHATEL-EN-BRAY	76270	France
+Maison du Parc Naturel Régional des Boucles de la Seine Normande - Hameau de l'Eglise B.P. 13	NOTRE-DAME-DE-BLIQUETUIT	76940	France
+185, Route de Dieppe	NOTRE-DAME-DE-BONDEVILLE	76960	France
+Ancien Hôtel-Dieu 51, rue de Lecat	ROUEN	76000	France
+198, Rue Beauvoisine	ROUEN	76000	France
+1, Place restout	ROUEN	76000	France
+2, rue Jacques Villon	ROUEN	76000	France
+198, Rue Beauvoisine	ROUEN	76000	France
+1, rue Faucon	ROUEN	76000	France
+185, Rue Eau de Robec	ROUEN	76000	France
+Bibliothèques de Rouen 3, rue Jacques Villon	ROUEN Cedex 1	76043	France
+B.P. 13 Mairie de Saint-Nicolas d'Aliermont	SAINT-NICOLAS-D'ALIERMONT	76510	France
+Quai Victor Hugo	VILLEQUIER	76490	France
+8, Place Joffre	YVETOT	76190	France
+29 bis, Rue Pasteur	BATZ-SUR-MER	44740	France
+2,  Place Jean Guihard	BLAIN	44130	France
+6, Rue des Moines B.P. 14	BOURGNEUF-EN-RETZ	44580	France
+Hôtel de ville B.P. 189	CHATEAUBRIANT	44146	France
+Porte St-Michel B.P. 85139	GUERANDE Cedex	44351	France
+82, Rue Pierre Abélard	LE PALLET	44330	France
+4, Place Marc Elder	NANTES	44000	France
+10, Rue Georges Clémenceau	NANTES	44000	France
+12, Rue Voltaire	NANTES	44000	France
+18, Rue Voltaire B.P. 40 415	NANTES Cedex 1	44004	France
+177, Île de Fedrun B.P. 3	SAINT-JOACHIM	44720	France
+Village de Kerhinet	SAINT-LYPHARD	44410	France
+Rozé Place des Eclusiers	SAINT-MALO DE GUERSAC	44550	France
+Avenue de Saint-Hubert B.P. 173	SAINT-NAZAIRE	44613	France
+32 bis rue Lenepveu	ANGERS	49100	France
+41, Place Imbach	ANGERS	49100	France
+Direction des musées d'Angers 14, Rue du Musée	ANGERS	49100	France
+Direction des musées d'Angers 14, Rue du Musée	ANGERS	49100	France
+Direction des musées d'Angers 14, Rue du Musée	ANGERS	49100	France
+Château du Roi René d'Anjou place de l'Europe	BAUGE	49150	France
+5, Place Notre-Dame	BEAUFORT-EN-VALLEE	49250	France
+27, Avenue de l'Abreuvoir	CHOLET	49300	France
+Rue du Docteur Roux	CHOLET	49300	France
+1, Place Jules-Desbois	PARCAY-LES-PINS	49390	France
+Place des Vignerons	SAINT LAMBERT-DU-LATTAY	49750	France
+Hôtel de Ville B.P. 300	SAUMUR Cedex	49408	France
+32, Chemin de la Maraîchère	TRELAZE	49800	France
+Place Billard de Veaux	AMBRIERES-LES-VALLEES	53300	France
+rue jean Bourré B.P. 402	CHATEAU-GONTIER	53200	France
+La Maison des Champs La Frénouse	COSSE-LE-VIVIEN	53230	France
+Place de l'Hôtel de Ville	ERNEE	53500	France
+13, Rue de la Libération B.P. 1	JUBLAINS	53160	France
+21, Rue du Douanier Rousseau	LAVAL	53000	France
+Place de la Trémoille	LAVAL	53000	France
+Place Juhel	MAYENNE	53100	France
+"Longchamp"	RENAZE	53800	France
+Musée Heurteloup-Chevalier	CHATEAU-DU-LOIR	72500	France
+2, Avenue de Paderborn	LE MANS	72000	France
+Rue de la Reine Bérengère	LE MANS	72000	France
+204, Avenue Jean-jaurès	LE MANS	72100	France
+24, Rue Victor Hugo B.P. 10	MALICORNE-SUR-SARTHE	72270	France
+Rue Charles-Garnier	SAINT-CALAIS	72120	France
+"La Cour"	FAYMOREAU	85240	France
+Place du 137ème Régiment d'Infanterie	FONTENAY-LE-COMTE	85200	France
+Le Daviaud	LA BARRE-DE-MONTS	85550	France
+Place de l'Eglise	LA GUERINIERE	85680	France
+Rue Jean Jaurès	LA ROCHE-SUR-YON	85000	France
+4, Rue des Noyers	LA-CHAIZE-LE-VICOMTE	85310	France
+Historial de la Vendée	LES LUCS-SUR-BOULOGNE	85170	France
+Rue de Verdun	LES SABLES D'OLONNE	85100	France
+Place de l'Hôtel de ville B.P. 227	MONTAIGU Cedex	85602	France
+1, rue Plante-Choux	MOUILLERON-EN-PAREDS	85390	France
+Place d'Armes	NOIRMOUTIER	85330	France
+Rue de l'Ecluse Le Port	NOIRMOUTIER EN L'ILE	85330	France
+4, Chemin du Bois Juquaud	SAINT-HILAIRE-DE-RIEZ	85270	France
+Le Bois Durand	SOULLANS	85300	France
+Château	BLERANCOURT	02300	France
+12, Rue Jean de la Fontaine	CHATEAU-THIERRY	02400	France
+28, Rue de la Paix	CHAUNY	02300	France
+265, Familistère Aile Droite	GUISE	02120	France
+Impasse du Château	HIRSON	02500	France
+5, Rue du Général de Gaulle	LA FERE	02800	France
+32, Rue Georges Ermant	LAON	02000	France
+Rue du Musée	ORIGNY-EN-THIERACHE	02550	France
+Site Abbatial Rue du Chamiteau	SAINT-MICHEL-EN-THIERACHE	02830	France
+28, Rue Antoine Lecuyer	SAINT-QUENTIN	02100	France
+Espace Saint Jacques 14, Rue de la Sellerie	SAINT-QUENTIN	02100	France
+Conservation des Musées Abbaye Saint-Jean-des-Vignes 2, rue de la Congrégation Logis de l'Abbé	SOISSONS	02200	France
+Place Carnegie Fargniers	TERGNIER	02700	France
+3, 5 Rue du Traité de Paix (Place du général de Gaulle)	VERVINS	02140	France
+24, Rue Demoustiers	VILLERS COTTERETS	02600	France
+432, Avenue du Maréchal Foch	AUNEUIL	60390	France
+1, Rue Cambry B.P. 941	BEAUVAIS cedex	60024	France
+12, Rue François Monnet	BRETEUIL	60120	France
+Salle du Patrimoine Hôtel de Ville	CHAUMONT-EN-VEXIN	60240	France
+28, Place de l'Hôtel de Ville	COMPIEGNE	60200	France
+Palais national B.P. 549	COMPIEGNE	60200	France
+Hôtel de Songeons-Bicquilley 2, Rue d'Austerlitz	COMPIEGNE	60200	France
+Place du Général de Gaulle	COMPIEGNE	60200	France
+Allée du Musée	CREIL	60100	France
+Rue Gustave Chopinet	CREPY-EN-VALOIS	60800	France
+51, rue Roger Salengro	MERU	60110	France
+7, Rue de l'Evêché	NOYON	60400	France
+6, Place Aristide Briand	NOYON	60400	France
+Place Notre Dame	SENLIS	60300	France
+Place du Parvis Notre Dame	SENLIS	60300	France
+24, Rue Gontier-Patin	ABBEVILLE	80100	France
+B.P. 40003 Saint-Riquier	ABBEVILLE Cedex	80146	France
+Muséum d'histoire naturelle	AMIENS	80000	France
+36, Rue Victor Hugo	AMIENS	80000	France
+48, Rue de la République	AMIENS	80000	France
+7, Rue du Musée	DOULLENS	80600	France
+Hôtel de Ville B.P. 20045	PERONNE Cédex	80201	France
+Château de Péronne B.P. 20063	PERONNE Cédex	80201	France
+1, rue de Friedland	ANGOULEME	16000	France
+134, Rue de Bordeaux	ANGOULEME	16000	France
+44, Rue de Montmoreau	ANGOULEME	16000	France
+121, Rue de Bordeaux B.P. 72308	ANGOULEME Cedex	16023	France
+Les Remparts Place de la Salle Verte	COGNAC	16100	France
+48, Bd Denfert Rochereau	COGNAC	16100	France
+Mairie d'Esnandes Eglise St-Martin - Place de l'Eglise	ESNANDES	17137	France
+B.P. 75 Place du Sémaphore	FOURAS	17450	France
+Rue Napoléon	ILE D'AIX	17123	France
+28, Rue Albert 1er	LA ROCHELLE	17000	France
+2, Rue Saint-Michel	LA ROCHELLE	17000	France
+2, Rue Saint-Côme	LA ROCHELLE	17000	France
+28, Rue Gargoulleau	LA ROCHELLE	17000	France
+10, Rue Fleuriau	LA ROCHELLE	17000	France
+62, Rue d'Aligre BP 16	MARANS	17230	France
+141, Rue Pierre Loti	ROCHEFORT	17300	France
+63-65 avenue de Gaulle	ROCHEFORT	17300	France
+Hôtel de Cheusses 1, Place de La Galissonnière	ROCHEFORT	17300	France
+9, Rue Régnaud	SAINT-JEAN-D'ANGELY	17400	France
+Hôtel de Clerjotte 13, avenue Victor Bouthillier	SAINT-MARTIN-DE-RE	17410	France
+Esplanade André Malraux	SAINTES	17100	France
+28, Rue Victor Hugo	SAINTES	17100	France
+29 ter, Rue Alsace-Lorraine	SAINTES	17100	France
+4 rue Monconseil	SAINTES	17100	France
+9, Place Gambetta	ST-PIERRE D'OLERON	17310	France
+Lieu dit "La Chapelle"	BOUGON	79800	France
+Place de l'Hôtel de Ville	BRESSUIRE	79300	France
+Rue Duguesclin	NIORT	79000	France
+28, avenue de Limoges	NIORT	79000	France
+28, avenue de Limoges	NIORT	79000	France
+1, Rue de la Vau Saint-Jacques	PARTHENAY	79200	France
+Aire Poitou-Charentes de Vouillé Aiffres	PRAHECQ	79230	France
+Mairie de Thouars B.P. 183	THOUARS	79103	France
+14, Rue Sully	CHATELLERAULT	86100	France
+La Manu 3, Rue Clément Krebs	CHATELLERAULT	86100	France
+3, Rue St-Pierre B.P. 64	CHAUVIGNY	86300	France
+Office du tourisme Place du Général Leclerc	CIVRAY	86400	France
+Rue du Martray	LOUDUN	86200	France
+La Sabline 21, Route de Montmorillon B.P. 23	LUSSAC-LES-CHATEAUX	86320	France
+6, Rue des Augustins	MONTMORILLON	86500	France
+3 bis, Rue Jean Jaurès	POITIERS	86000	France
+101 Rue du Père-de-la-Croix	POITIERS	86000	France
+9, Rue Victor Hugo	POITIERS	86000	France
+Société des Antiquaires de l'Ouest B.P. 179	POITIERS Cedex	86004	France
+1, Place de la Cathédrale B.P; 80964	POITIERS Cedex	86000	France
+Villa "La Sapinière" 10, Avenue de la Libération	BARCELONNETTE	04400	France
+64, Bd Gassendi	DIGNE-LES-BAINS	04000	France
+1, Place du Bourguet	FORCALQUIER	04300	France
+Prieuré de Salagon	MANE	04300	France
+Espace Christiane Vivier	MOUSTIERS-STE-MARIE	04360	France
+Route de Montmeyan	QUINSON	04500	France
+Mairie de Riez	RIEZ-LA-ROMAINE	04500	France
+Place de la République B.P. 100	SISTERON Cedex	04203	France
+Mairie de Vachères	VACHERES	04110	France
+Direction des musées 4, rue des Cordiers	ANTIBES	06600	France
+Direction des musées 4, rue des Cordiers	ANTIBES	06600	France
+9, Rue Saint-Sébastien	BIOT	06410	France
+Chemin Val de Pome	BIOT	06410	France
+Chemin des Collettes	CAGNES-SUR-MER	06800	France
+7, Place Grimaldi - Haut de Cagnes	CAGNES-SUR-MER	06800	France
+Ile-Sainte-Marguerite	CANNES	06400	France
+Le Suquet	CANNES	06400	France
+2, Boulevard du Jeu de Ballon	GRASSE	06130	France
+2, Rue Mirabeau	GRASSE	06130	France
+23, Boulevard Fragonard	GRASSE	06130	France
+Mairie	LE CANNET	06110	France
+Rue Lorédan Larchey	MENTON	06500	France
+3, Avenue de la Madone	MENTON	06500	France
+Quai Napoleon III	MENTON	06500	France
+25, Boulevard Carnot	NICE	06300	France
+160, Avenue des Arènes	NICE	06000	France
+65, Rue de France	NICE	06000	France
+Château Ste Hélène Avenue Val Marie	NICE	06200	France
+164, Avenue des Arènes de Cimiez	NICE	06000	France
+60  Boulevard Risso	NICE	06300	France
+15, Rue Droite	NICE	06300	France
+59, Avenue Saint Barthélémy	NICE	06000	France
+Avenue du Docteur Menard	NICE	06000	France
+Promenade des Arts	NICE	06300	France
+33, Avenue des Baumettes	NICE	06000	France
+405, Promenade des Anglais	NICE	06200	France
+Place des Tilleuls	PUGET-ROSTANG	06260	France
+Avenue du 16 Septembre 1947	TENDE	06430	France
+Place de la Libération	VALLAURIS	06220	France
+Place de la Libération	VALLAURIS	06220	France
+Citadelle de Villefranche sur Mer	VILLEFRANCHE-SUR-MER	06230	France
+9, Avenue Paul Cézanne	AIX-EN-PROVENCE	13090	France
+2 bis rue du Quatre-Septembre	AIX-EN-PROVENCE	13100	France
+Place Saint-Jean de Malte	AIX-EN-PROVENCE	13100	France
+13, Rue de la Molle	AIX-EN-PROVENCE	13100	France
+Hôtel Estienne-de-Saint-Jean 17, Rue Gaston de Saporta	AIX-EN-PROVENCE	13100	France
+6, Rue Espariat	AIX-EN-PROVENCE	13100	France
+Ancien Palais de l'Archevêché Place des Martyrs-de-la-Résistance	AIX-EN-PROVENCE	13100	France
+Mas du Pont de Rousty	ARLES	13200	France
+29, Rue de la République	ARLES	13200	France
+10, Rue du Grand Prieuré	ARLES	13200	France
+Presqu'île du Cirque Romain B.P. 205	ARLES Cédex	13635	France
+Quartier Vienot - DHPLE B.P. 21355	AUBAGNE Cedex	13784	France
+Rue Xavier-D'Authier	CASSIS	13260	France
+Avenue des Moulins	FONTVIEILLE	13390	France
+Pôle Intercommunal du Patrimoine Culturel B.P. 10647	ISTRES Cedex	13808	France
+1, Quai Ganteaume B.P. 110	LA CIOTAT Cedex	13702	France
+2, rue du Jas	LAMBESC	13410	France
+Ilot Post Tenebra Lux	LES BAUX DE PROVENCE	13520	France
+Grand-Rue Frédéric Mistral Le Village	LES-BAUX-DE-PROVENCE	13520	France
+11, avenue Lamartine	MAILLANE	13910	France
+134, Avenue Clot-Bey	MARSEILLE	13008	France
+69, avenue d'Haïfa	MARSEILLE	13000	France
+19, Rue Grignan	MARSEILLE	13006	France
+2, Rue de la Prison	MARSEILLE	13002	France
+Palais Longchamp	MARSEILLE	13004	France
+11 , Rue La Canebière	MARSEILLE	13001	France
+10, Rue Clovis Hugues Archives Municipales Palais des Beaux-Arts	MARSEILLE	13001	France
+Château Pastré  157, Avenue de Montredon	MARSEILLE	13008	France
+Place Vivaux	MARSEILLE	13002	France
+Centre Bourse Square Belsunce	MARSEILLE	13001	France
+140, Boulevard Longchamp	MARSEILLE	13001	France
+Centre de la Vieille Charité 2, rue de la Charité	MARSEILLE	13002	France
+Centre de la Charité 2, rue de la Charité	MARSEILLE	13002	France
+Palais Longchamp	MARSEILLE	13004	France
+Boulevard du 14 Juillet	MARTIGUES	13500	France
+Hôtel de Ville Place de la République	SAINT-CANNAT	13760	France
+Montée des Pénitents	SAINT-CHAMAS	13250	France
+8, rue Estrine	SAINT-REMY-DE-PROVENCE	13210	France
+1, Place Favier	SAINT-REMY-DE-PROVENCE Cedex	13538	France
+Rue Victor-Hugo	SAINTES-MARIES-DE-LA-MER	13460	France
+Château de l'Empéri 1, Montée du Puech	SALON-DE-PROVENCE	13300	France
+Montée du Puech	SALON-DE-PROVENCE	13300	France
+Musée du Vieux Queyras	AIGUILLES	05470	France
+6, Avenue Maréchal Foch	GAP	05000	France
+Rue Haute	AIGUINES	83630	France
+103, Rue Carnot	BORMES-LES-MIMOSAS	83230	France
+Place du Palais des Comtes de Provence	BRIGNOLES	83170	France
+21, allées d'Azémar	DRAGUIGNAN	83300	France
+Communauté d'Agglomération Dracenoise 15, Rue Roumanille	DRAGUIGNAN	83300	France
+9, Rue de la République	DRAGUIGNAN	83300	France
+Quartier Bonaparte D. 59 B.P. 400 Avenue de la Grande Armée - D 59	DRAGUIGNAN Cedex	83007	France
+Salle du Vieux Fréjus Place Calvini	FREJUS	83600	France
+B.P. 94	FREJUS Cedex	83608	France
+14, Avenue Joseph Clotis	HYERES	83400	France
+Villa les Lauriers Roses 705, Avenue du 8 Mai 1945	LE POUVEREL LA GARDE	83130	France
+Parvis de la Vieille Eglise	SAINT-RAPHAËL	83700	France
+Quai Saint-Raphaël Place Georges Grammont	SAINT-TROPEZ	83990	France
+Rue Jules Ferry	SOLLIES-VILLE	83210	France
+Place Monsenergue Quai de Norfolk	TOULON	83000	France
+Chemin du Jonquet	TOULON	83200	France
+113, Boulevard du Maréchal Leclerc	TOULON	83000	France
+14, Place du Postel	APT	84400	France
+Place du Palais des Papes	AVIGNON	84000	France
+65, Rue Joseph Vernet	AVIGNON	84000	France
+67, Rue Joseph Vernet	AVIGNON	84000	France
+234, Boulevard Albin-Durand	CARPENTRAS	84200	France
+Rue des Saintes Maries	CARPENTRAS	84200	France
+112, Rue du Collège	CARPENTRAS	84200	France
+Porte d'Avignon	CAVAILLON	84300	France
+Rue Hébraïque	CAVAILLON	84300	France
+52, Place Castil-Blaze	CAVAILLON	84300	France
+Rue de l'Eglise	CUCURON	84160	France
+Rive gauche de la Sorgue	FONTAINE-DE-VAUCLUSE	84800	France
+Chemin du Gouffre	FONTAINE-DE-VAUCLUSE	84800	France
+Hötel de ville	LOUMARIN - CADENET	84160	France
+27, Rue St-Nazaire	MAZAN	84380	France
+Société Culture Espace Rue Madeleine Roch	ORANGE	84100	France
+Hôtel de Ville	SAULT	84390	France
+Hôtel de Ville Cours Taulignan	VAISON-LA-ROMAINE	84110	France
+3, Avenue du Maréchal Foch	VALREAS	84600	France
+166, Route de Cilaos Atelier 1	LA RIVIERE SAINT-LOUIS	97421	France
+6,Allée des Flamboyants	PITON-SAINT-LEU	97424	France
+28, rue de Paris	SAINT-DENIS	97400	France
+1, rue Poivre	SAINT-DENIS DE LA REUNION	97400	France
+Domaine Panon-Desbassayns-Villèle	SAINT-GILLES-LES-HAUTS	97435	France
+34, rue du Général Delestraint	BOURG-EN-BRESSE	01000	France
+Monastère Royal de Brou 63, Boulevard de Brou	BOURG-EN-BRESSE	01000	France
+Mairie	BRIORD	01470	France
+Place de l'Eglise	IZERNORE	01580	France
+Maison Renaissance	LOCHIEU	01260	France
+3, Montée de l'Abbaye	NANTUA	01130	France
+Centre Culturel Aragon Place Georges Pompidou	OYONNAX	01100	France
+Place du Tilleul	PEROUGES	01800	France
+Hôtel de Ville 66, Rue Maréchal de Lattre de Tassigny	PONT-DE-VAUX	01190	France
+Domaine des Planons Hameau de la Mulatière	SAINT-CYR-SUR-MENTHON	01380	France
+Mairie Place Louis Jourdan	SAINT-PAUL-DE-VARAX	01240	France
+Place de la République	SEYSSEL	01420	France
+Cuisiat	TREFFORT-CUISIAT	01370	France
+Maison de la Dombes	VILLARS DE LA DOMBE	01330	France
+15, Rue Jean-Baptiste Béchetoille	ANNONAY	07100	France
+Centre d'accueil Espace Fernand Aubert	LES VANS	07140	France
+Orgnac Grand Site de France	ORGNAC-L'AVEN	07150	France
+2, Place des Récollets	PRIVAS	07000	France
+154, rue Auguste Vincent	SERRIERES	07340	France
+Place de la Déesse Soïo	SOYONS	07130	France
+14, Place Auguste Faure	TOURNON-SUR-RHÔNE	07300	France
+11, Rue Camille-Buffardel	DIE	26150	France
+Le Château	GRIGNAN	26230	France
+Mairie Place Emile Loubet	MONTELIMAR	26200	France
+Le Village	MOURS SAINT-EUSEBE	26540	France
+Portail Roger-Vivier Rue Bistour	ROMANS	26100	France
+B.P. 44	SAINT-PAUL-TROIS-CHATEAUX Cedex	26131	France
+Mairie, Place de la Liberté B.P. 2119	VALENCE Cedex	26021	France
+La Hâle	VASSIEUX-EN-VERCORS	26420	France
+Place du château	ANNECY	74000	France
+89, Avenue Michel Croz	CHAMONIX	74400	France
+Château de Montrottier 60, Allée du Château	LOVAGNY	74330	France
+"Les Tabacs" 23, Avenue Gantin	RUMILLY	74150	France
+2, Rue Blanche	THONES	74230	France
+Château de Sonnaz Square Eberbach	THONON-LES-BAINS	74200	France
+Le Verney de Vaujany B.P. 9	ALLEMONT	38114	France
+Parc des Forges	ALLEVARD-LES-BAINS	38580	France
+Route de la Poste	ALPE D'HUEZ	38750	France
+B.P. 17	AOSTE	38490	France
+17, Rue Victor Hugo	BOURGOIN-JALLIEU	38300	France
+Musée - Parc Archéologique du Lac de Paladru	CHARAVINES	38850	France
+1, Rue Géo-Charles	ECHIROLLES	38130	France
+Place Saint-Laurent	GRENOBLE	38000	France
+5 Place de Lavalette	GRENOBLE	38000	France
+14, rue Hébert	GRENOBLE	38000	France
+1, Rue Hector Berlioz	GRENOBLE	38000	France
+30, Rue Maurice Gignoux	GRENOBLE Cedex 1	38031	France
+1, Rue Dolomieu B.P. 3022	GRENOBLE Cedex 1	38816	France
+Montée de la Cure	HIERES SUR AMBY	38118	France
+Maison Caral Rue du Colonel Escallon	LA MURE	38350	France
+Chemin Hébert	LA TRONCHE	38700	France
+69, Rue de la République B.P. 63	LA-COTE-SAINT-ANDRE Cedex	38261	France
+La Correrie	SAINT-PIERRE-DE-CHARTREUSE	38380	France
+Place de Miremont	VIENNE	38200	France
+Cours Saint-André-le-Bas	VIENNE	38200	France
+Place Saint-Pierre	VIENNE	38200	France
+Domaine départemental de la Vizille B.P. 1753	VIZILLE	38220	France
+B.P. 268 7, Place Léon Chaloin	VOIRON Cedex	38507	France
+Rue de la Grye	AMBIERLE	42820	France
+9, Boulevard Général Leclerc B.P. 14	CHARLIEU	42190	France
+9, Boulevard du Général Leclerc B.P. 14	CHARLIEU	42190	France
+16, Route de St Galmier	CHAZELLES-SUR-LYON	42140	France
+Rue du Couvent	ESTIVAREILLES	42380	France
+3, Rue Victor de Laprade	FEURS	42110	France
+Mairie Le Bourg	GREZOLLES	42260	France
+7, Rue Florimont-Robertet	MONTBRISON	42600	France
+13, Boulevard de la Préfecture	MONTBRISON	42600	France
+Mairie Le Bourg	POMMIERS-EN-FOREZ	42260	France
+RUE DE SAINT-ANDRE	RIORGES	42300	France
+22, Rue Anatole France	ROANNE	42300	France
+Passage Général Giraud	ROANNE	42300	France
+La Terrasse	SAINT-ETIENNE	42000	France
+3, Boulevard Franchet d'Esperey	SAINT-ETIENNE	42000	France
+Chomat de Villeneuve 13 bis, Rue Gambetta	SAINT-ETIENNE	42000	France
+2, Place Louis Comte	SAINT-ETIENNE Cedex 1	42026	France
+Château de la Bastie d'Urfé	SAINT-ETIENNE-LE-MOLARD	42130	France
+Place de l'hôtel de Ville	SAINT-GERMAIN-LAVAL	42260	France
+Place Madeleine Rousseau	SAINT-JUST-SAINT-RAMBERT	42170	France
+Quartier Saint-Joseph	USSON EN FOREZ	42550	France
+Place de l'Hôtel de Ville	AMPLEPUIS	69550	France
+Place de l'Hôtel de Ville	BEAUJEU	69430	France
+13, Rue de la Poulaillerie	LYON	69002	France
+30, Rue de la Charité	LYON	69002	France
+28, Boulevard des Belges	LYON	69006	France
+34, Rue de la Charité	LYON	69002	France
+14, Avenue Berthelot	LYON	69007	France
+17, Rue Cléberg	LYON	69005	France
+Cité Internationale 81, Quai Charles de Gaulle	LYON	69006	France
+1, Place du Petit Collège	LYON	69005	France
+Hôtel Dieu 1, Place de l'Hôpital	LYON	69002	France
+20, Place des Terreaux	LYON	69001	France
+CASC Musée 17, Rue Rabelais	LYON	69003	France
+Automobiles - Cycles - Motos B.P. n° 7	ROCHETAILLEE-SUR-SAONE	69270	France
+Route Départementale 502 2, Chemin de la Plaine	SAINT-ROMAIN-EN-GAL	69560	France
+La Manufacture-Marnand	THIZY	69240	France
+Place Faubert	VILLEFRANCHE-SUR-SAONE	69400	France
+Maison du Tourisme Vallée Avenue de Tarentaise - B.P. 55	AIME-EN-TARENTAISE Cedex	73212	France
+Place Maurice Mollard	AIX-LES-BAINS	73100	France
+Villa "Les Chimères" 10, Boulevard des Côtes	AIX-LES-BAINS	73100	France
+Grande Place de Conflans	ALBERTVILLE	73200	France
+Hauteville-Gondon	BOURG-SAINT-MAURICE	73700	France
+Square de Lannoy de Bissy	CHAMBERY	73000	France
+Place du Palais de Justice	CHAMBERY	73000	France
+Chemin des Charmettes	CHAMBERY	73000	France
+208, Avenue de Lyon B.P. 844	CHAMBERY CEDEX	73007	France
+23, Place Saint-Pierre	MOÛTIERS	73600	France
+Rue du 11 novembre B.P. 4300	SAINT-PIERRE ET MIQUELON	97500	France
