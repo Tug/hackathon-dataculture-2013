@@ -16,7 +16,7 @@ global.db = db;
 var app = express();
 
 // all environments
-app.set('port', process.env.PORT || 9000);
+app.set('port', process.env.PORT || 11000);
 app.engine('.html', require('ejs').__express);
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'html');
