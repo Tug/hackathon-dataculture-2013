@@ -9,7 +9,7 @@ var http = require('http');
 var path = require('path');
 
 var sqlite3 = require('sqlite3').verbose();
-var db = new sqlite3.Database('../musee.db');
+var db = new sqlite3.Database('../musees2.db');
 
 global.db = db;
 
@@ -36,6 +36,7 @@ if ('development' == app.get('env')) {
 }
 
 app.get('/', routes.index);
+app.get('/geo', routes.geo);
 app.get('/musees', require('./routes/musees').list);
 
 http.createServer(app).listen(app.get('port'), function(){

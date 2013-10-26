@@ -34,6 +34,11 @@ a {
     -moz-filter: blur(5px);
     -o-filter: blur(5px);
     -ms-filter: blur(5px);
+    -webkit-transition: all 1.0s ease-in-out;
+    -moz-transition: all 1.0s ease-in-out;
+    -o-transition: all 1.0s ease-in-out;
+    -ms-transition: all 1.0s ease-in-out;
+    transition: all 1.0s ease-in-out;
 }
 
 #centerBox {
@@ -44,10 +49,26 @@ a {
     width: 50%;
     height: 30%;
     opacity: 0.8;
+    padding: 20px;
 }
 
 #logo {
     width: 100%;
+}
+
+@font-face
+{
+    font-family: Roboto;
+    src: url('/fonts/Roboto-Light.ttf'), url('Sansation_Light.eot');
+}
+
+.logoText {
+    font-family: Roboto;
+    font-size: 2.5em;
+}
+
+.logoText .grey {
+    color: gray;
 }
 
 #hashtagBox {
@@ -62,4 +83,106 @@ a {
     opacity: 0.8;
     text-align: center;
     font-size: 120%;
+}
+
+#leftPanelBg {
+    overflow:hidden;
+    z-index:2;
+    position:absolute;
+    background-color: black;
+    top: 0;
+    left: -350px;
+    width: 25%;
+    min-width: 350px;
+    height: 100%;
+    opacity:0.4;
+}
+
+#leftPanel {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 25%;
+    min-width: 350px;
+    height: 100%;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+    z-index:3;
+    overflow:hidden;
+    display: none;
+}
+
+#panel-header {
+
+}
+
+#logoImage {
+    width:36px;
+    padding-top: 5px;
+}
+
+.logoBox {
+    padding: 4px;
+}
+
+.intro-logoImage {
+    width: 102px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.intro-logoText {
+    font-size: 6.0em;
+    padding-left: 120px;
+}
+
+.intro-logoText > .grey {
+    color: gray;
+}
+
+
+header {
+    display: none;
+}
+.blurheader {
+    background: transparent;
+    overflow: hidden;
+    z-index: 10000;
+    left: 0;
+}
+
+
+#markersInfo {
+
+}
+
+#markersInfo > ul {
+    list-style: none;
+    margin: 10px 5px;
+    padding: 0;
+}
+
+
+#markersInfo > ul > li {
+    margin: 8px;
+}
+
+.map-icon-myposition {
+
+}
+
+.marker-label,
+.marker-icon {
+    z-index: 99;
+    position: absolute;
+    display: block;
+    margin-top: -50px;
+    margin-left: -25px;
+    width: 50px;
+    height: 50px;
+    font-size: 30px !important;
+    text-align: center;
+    color: #FFFFFF;
+    white-space: nowrap;
 }

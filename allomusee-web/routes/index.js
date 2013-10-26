@@ -9,3 +9,7 @@ exports.index = function(req, res, next) {
         res.render('index', { title: "AlloMusée - " + result.num + " musées" });
     });
 };
+
+exports.geo = function(req, res, next) {
+    res.render('goe');
+};
