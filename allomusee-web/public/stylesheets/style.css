@@ -12,12 +12,20 @@ html, body {
 }
 
 body {
-  font: 14px Roboto, Helvetica, Arial, sans-serif;
+    font: 14px Roboto, Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #00B7FF;
+    color: white;
+    text-decoration: underline;
 }
+
+a:hover {
+    color: lightgray;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 
 #wrapper {
     position: relative;
@@ -150,6 +158,7 @@ a {
 header {
     display: none;
 }
+
 .blurheader {
     background: transparent;
     overflow: hidden;
@@ -158,33 +167,94 @@ header {
 }
 
 
-#markersInfo {
-}
-
 #markersInfo > ul {
     list-style: none;
-    margin: 30px 5px 5px 10px;
+    margin: 15px 0 5px 0;
     padding: 0;
 }
 
 
 #markersInfo > ul > li {
-    margin-top: 10px;
-    margin-bottom: 15px;
+    padding: 10px 10px 10px 40px;
 }
 
 
 .marker-bullet {
-    width: 28px;
-    height: 33px;
-    margin-right: 10px;
+    width: 22px;
+    height: 26px;
+    left: 10px;
+    position: absolute;
 }
 
 .marker-info {
     cursor: pointer;
 }
 
+.musee-info {
+    margin: 3px 5px 5px 10px;
+}
 
-.marker-info {
+
+.musee-nom {
+    padding: 0 0 0 0;
+    font-size: 22px;
+}
+
+.musee-addresse {
+    padding: 0 0 0 0;
+}
+
+.musee-ville {
+    padding: 2px 5px 2px 0;
+    margin-bottom: 10px;
+}
+
+.musee-horaires {
+    padding: 5px 0 0 0;
+}
+
+.musee-horaires-extra {
+    padding: 2px 0 2px 0;
+    margin-bottom: 0;
+}
+
+.musee-streetview:hover {
     cursor: pointer;
+}
+
+.musee-streetview {
+    padding: 50px 10px 5px 30px;
+}
+
+.musee-news {
+
+}
+
+.musee-siteweb {
+    padding: 12px 0 0 0;
+}
+
+.musee-distance {
+    padding: 10px 0 0 0;
+}
+
+.android-app {
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+    right: 0;
+}
+
+.android-app img {
+    width: 100px;
+}
+
+.img-distance {
+    height: 12px;
+    margin-right: 8px;
+}
+
+.img-horaire {
+    height: 12px;
+    margin-right: 8px;
 }
