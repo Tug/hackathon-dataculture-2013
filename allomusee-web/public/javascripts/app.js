@@ -17,7 +17,7 @@ $(document).ready(function(){
         },
         markerClusterer: function(map) {
             return new MarkerClusterer(map, undefined, {
-                maxZoom: 11
+                maxZoom: 10
             });
         }
     });
@@ -30,6 +30,15 @@ $(document).ready(function(){
         "histoire",
         "science"
     ];
+
+    var themeToColor = {
+        "architecture": "rgba(98, 61, 128, 0.88)",
+        "art_metiers": "rgba(0, 153, 204, 0.88)",
+        "art_moderne": "rgba(102, 154, 47, 0.88)",
+        "beau_arts": "rgba(84, 100, 135, 0.88)",
+        "histoire": "rgba(154, 77, 152, 0.88)",
+        "science": "rgba(6, 176, 160, 0.88)"
+    };
 
     if(navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function(position) {
@@ -71,7 +80,7 @@ $(document).ready(function(){
         $("#centerBox").fadeOut();
         $("#leftPanelBg").animate({
             left: "0px",
-            opacity: 0.85
+            opacity: 1
         }, 1000, function() {
             $("#leftPanel").show();
         });
@@ -81,7 +90,8 @@ $(document).ready(function(){
     var markers;
     $.get("/musees", function(res) {
         markers = res.map(function(museeInfo) {
-            var theme = stringToColor(museeInfo.NOM_DU_MUSEE, themes);
+            museeInfo.theme = stringToColor(museeInfo.NOM_DU_MUSEE, themes);
+            museeInfo.url = "/images/DECOUPE_PIN_"+museeInfo.theme+"@2x.png";
             return map.createMarker({
                 lat: museeInfo.latitude,
                 lng: museeInfo.longitude,
@@ -91,24 +101,32 @@ $(document).ready(function(){
                 },
                 data: museeInfo,
                 icon: {
-                    url: "/images/DECOUPE_PIN_"+theme+"@2x.png",
+                    url: museeInfo.url,
                     scaledSize: {
                         width: 28,
                         height: 33
                     }
+                },
+                click: function() {
+                    markerClicked(this);
                 }
             });
         });
     });
 
+    function markerClicked(marker) {
+        map.panTo(marker.getPosition());
+        updateMarkersInfo();
+    }
+
     function showMarkers() {
         markers.forEach(function(marker) {
             map.addMarker(marker);
         });
+        updateMarkersInfo();
     }
 
     function updateMarkersInfo() {
-        var markers = map.markers;
         var bounds = map.getBounds();
         updateMarkersDistance();
 
@@ -122,9 +140,39 @@ $(document).ready(function(){
 
         $("#markersInfo > ul").empty();
         markers10.forEach(function(m) {
-            $("#markersInfo > ul").append('<li>'+m.data.NOM_DU_MUSEE+'</li>');
+            var html = '<li class="marker-info">';
+            html += '<img src="'+m.data.url+'" class="marker-bullet"/>';
+            html += m.data.NOM_DU_MUSEE
+            html += '</li>';
+            var el = $(html);
+            $("#markersInfo > ul").append(el);
+            el.click(function(e) {
+                $("#leftPanelBg").css("background-color", themeToColor[m.data.theme]);
+                return markerClicked(m);
+            });
+            el.hover(function(e) {
+                console.log(e);
+                if(e.type === "mouseenter") {
+                    $(this).css("background-color", "rgba(98, 61, 128, 0.88)");
+                } else if(e.type === "mouseleave") {
+                    $(this).css("background-color", "transparent");
+                }
+            });
+
         });
+/*
+        $(".marker-info").hover(function(e) {
+            console.log(e);
+            if(e.type === "mouseenter") {
+                $(this).css("background-color", "rgba(98, 61, 128, 0.88)");
+            } else if(e.type === "mouseleave") {
+                $(this).css("background-color", "transparent");
+            }
+        });*/
     }
+
+
+
 
     function updateMarkersDistance() {
         var markers = map.markers;

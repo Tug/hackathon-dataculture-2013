@@ -1,4 +1,10 @@
 
+@font-face
+{
+    font-family: Roboto;
+    src: url('/fonts/Roboto-Light.ttf'), url('Sansation_Light.eot');
+}
+
 html, body {
     height: 100%;
     margin: 0;
@@ -6,7 +12,7 @@ html, body {
 }
 
 body {
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 14px Roboto, Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -56,15 +62,10 @@ a {
     width: 100%;
 }
 
-@font-face
-{
-    font-family: Roboto;
-    src: url('/fonts/Roboto-Light.ttf'), url('Sansation_Light.eot');
-}
-
 .logoText {
     font-family: Roboto;
     font-size: 2.5em;
+    margin-left: 10px;
 }
 
 .logoText .grey {
@@ -76,7 +77,10 @@ a {
     margin-left: auto;
     margin-top: 30%;
     position: absolute;
-    top: 0; left: 0; bottom: 0; right: 0;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
     z-index: 99;
     width: 50%;
     height: 30px;
@@ -89,7 +93,7 @@ a {
     overflow:hidden;
     z-index:2;
     position:absolute;
-    background-color: black;
+    background-color: rgba(51, 51, 51, 0.88);
     top: 0;
     left: -350px;
     width: 25%;
@@ -106,8 +110,6 @@ a {
     min-width: 350px;
     height: 100%;
     color: white;
-    padding-right: 10px;
-    padding-left: 10px;
     z-index:3;
     overflow:hidden;
     display: none;
@@ -118,12 +120,15 @@ a {
 }
 
 #logoImage {
-    width:36px;
-    padding-top: 5px;
+    width: 42px;
+    margin-top: -20px;
 }
 
 .logoBox {
-    padding: 4px;
+    margin: 0;
+    padding: 5px 5px 5px 15px;
+    background-color: white;
+    color: rgb(51, 51, 51);
 }
 
 .intro-logoImage {
@@ -154,35 +159,32 @@ header {
 
 
 #markersInfo {
-
 }
 
 #markersInfo > ul {
     list-style: none;
-    margin: 10px 5px;
+    margin: 30px 5px 5px 10px;
     padding: 0;
 }
 
 
 #markersInfo > ul > li {
-    margin: 8px;
+    margin-top: 10px;
+    margin-bottom: 15px;
 }
 
-.map-icon-myposition {
 
+.marker-bullet {
+    width: 28px;
+    height: 33px;
+    margin-right: 10px;
 }
 
-.marker-label,
-.marker-icon {
-    z-index: 99;
-    position: absolute;
-    display: block;
-    margin-top: -50px;
-    margin-left: -25px;
-    width: 50px;
-    height: 50px;
-    font-size: 30px !important;
-    text-align: center;
-    color: #FFFFFF;
-    white-space: nowrap;
+.marker-info {
+    cursor: pointer;
+}
+
+
+.marker-info {
+    cursor: pointer;
 }
