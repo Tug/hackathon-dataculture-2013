@@ -77,7 +77,8 @@ $(document).ready(function(){
     }
 
     function handleNoGeolocation(errorFlag) {
-        // afficher la recherche
+        // afficher la recherche normalement
+        isCentered();
     }
 
     function isCentered() {
