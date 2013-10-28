@@ -239,7 +239,7 @@ $(document).ready(function(){
                 var el = $(html);
                 $("#markersInfo > ul").append(el);
                 el.click(function(e) {
-                    return markerClicked(m);
+                    google.maps.event.trigger(m, "click");
                 });
                 el.hover(function(e) {
                     if(e.type === "mouseenter") {
