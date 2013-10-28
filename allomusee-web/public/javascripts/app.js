@@ -178,9 +178,10 @@ $(document).ready(function(){
         }).fadeIn(200);
     }
 
+    var markers;
     function showMarkers() {
         $.get("/musees", function(res) {
-            var markers = res.map(function(museeInfo) {
+            markers = res.map(function(museeInfo) {
                 museeInfo.theme = stringToColor(museeInfo.NOM_DU_MUSEE, themes);
                 museeInfo.url = "/images/DECOUPE_PIN_"+museeInfo.theme+"@2x.png";
                 var infoWindow = new google.maps.InfoWindow({
@@ -210,11 +211,11 @@ $(document).ready(function(){
             markers.forEach(function(marker) {
                 map.addMarker(marker);
             });
-            updateMarkersInfo(markers);
+            updateMarkersInfo();
         });
     }
 
-    function updateMarkersInfo(markers) {
+    function updateMarkersInfo() {
         var bounds = map.getBounds();
         updateMarkersDistance();
 
