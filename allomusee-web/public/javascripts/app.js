@@ -99,36 +99,6 @@ $(document).ready(function(){
         showMarkers();
     }
 
-    var markers;
-    $.get("/musees", function(res) {
-        markers = res.map(function(museeInfo) {
-            museeInfo.theme = stringToColor(museeInfo.NOM_DU_MUSEE, themes);
-            museeInfo.url = "/images/DECOUPE_PIN_"+museeInfo.theme+"@2x.png";
-            var infoWindow = new google.maps.InfoWindow({
-                content: '<p>'+museeInfo.NOM_DU_MUSEE+'</p>'
-            });
-            google.maps.event.addListener(infoWindow, 'closeclick', function(){
-                updateMarkersInfo();
-            });
-            return map.createMarker({
-                lat: museeInfo.latitude,
-                lng: museeInfo.longitude,
-                title: museeInfo.NOM_DU_MUSEE,
-                infoWindow: infoWindow,
-                data: museeInfo,
-                icon: {
-                    url: museeInfo.url,
-                    scaledSize: {
-                        width: 28,
-                        height: 33
-                    }
-                },
-                click: function() {
-                    markerClicked(this);
-                }
-            });
-        });
-    });
 
     function markerClicked(marker) {
         updatePanorama(marker);
@@ -209,13 +179,42 @@ $(document).ready(function(){
     }
 
     function showMarkers() {
-        markers.forEach(function(marker) {
-            map.addMarker(marker);
+        $.get("/musees", function(res) {
+            var markers = res.map(function(museeInfo) {
+                museeInfo.theme = stringToColor(museeInfo.NOM_DU_MUSEE, themes);
+                museeInfo.url = "/images/DECOUPE_PIN_"+museeInfo.theme+"@2x.png";
+                var infoWindow = new google.maps.InfoWindow({
+                    content: '<p>'+museeInfo.NOM_DU_MUSEE+'</p>'
+                });
+                google.maps.event.addListener(infoWindow, 'closeclick', function(){
+                    updateMarkersInfo();
+                });
+                return map.createMarker({
+                    lat: museeInfo.latitude,
+                    lng: museeInfo.longitude,
+                    title: museeInfo.NOM_DU_MUSEE,
+                    infoWindow: infoWindow,
+                    data: museeInfo,
+                    icon: {
+                        url: museeInfo.url,
+                        scaledSize: {
+                            width: 28,
+                            height: 33
+                        }
+                    },
+                    click: function() {
+                        markerClicked(this);
+                    }
+                });
+            });
+            markers.forEach(function(marker) {
+                map.addMarker(marker);
+            });
+            updateMarkersInfo(markers);
         });
-        updateMarkersInfo();
     }
 
-    function updateMarkersInfo() {
+    function updateMarkersInfo(markers) {
         var bounds = map.getBounds();
         updateMarkersDistance();
 
